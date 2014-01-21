@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+ <head>
+     <title>Some Select Blogs</title>
+</head>
+ <body>
+    <outline text="The Situation Room" type="rss" xmlUrl="http://sitroom.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Vents" type="rss" xmlUrl="http://poetryevents.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Art of Fiction" type="rss" xmlUrl="http://artoffiction.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WE HAVE MOVED TO WWW.ARTYARNBLOG.TUMBLR.COM" type="rss" xmlUrl="http://artyarn.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Colin Herd | poet, fiction writer, reviewer" type="rss" xmlUrl="http://colinherd.com/feed/"/>
+    <outline text="Diary of a Bluestocking" type="rss" xmlUrl="http://diaryofabluestocking.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="dbqp: visualizing poetics" type="rss" xmlUrl="http://dbqp.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Holly Pester | sound poetry, performance texts and writing " type="rss" xmlUrl="http://www.hollypester.com/feed/rss/"/>
+    <outline text="Absolute Elsewhere | Joy as Tiresome Vandalism" type="rss" xmlUrl="http://joyastiresomevandalism.wordpress.com/feed/"/>
+    <outline text="GIVE A FIG" type="rss" xmlUrl="http://lesfigues.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="NEVER MIND THE BEASTS: Tim Atkins" type="rss" xmlUrl="http://marcusslease.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="santiago's dead wasp" type="rss" xmlUrl="http://santiagosdeadwasp.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="writing tips for students" type="rss" xmlUrl="http://abandonyourtimidnotion.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Vlad Press" type="rss" xmlUrl="http://quitthispamperedtown.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Pages" type="rss" xmlUrl="http://robertsheppard.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Silliman's Blog" type="rss" xmlUrl="http://ronsilliman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="sophie robinson" type="rss" xmlUrl="http://sophierobinson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="AMES ALT RESEARCH" type="rss" xmlUrl="http://spencerselby.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="BrandosHat" type="rss" xmlUrl="http://stevenwaling.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="wrd.wthiin.woord" type="rss" xmlUrl="http://wordwithinword.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="walkingintheceiling" type="rss" xmlUrl="http://walkingintheceiling.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Aesthetica: The Art and Culture Magazine" type="rss" xmlUrl="http://www.aestheticamagazine.com/feed"/>
+    <outline text="Anything Anymore Anywhere | Beautiful wedding ring" type="rss" xmlUrl="http://www.anything-anymore-anywhere.com/feed"/>
+    <outline text="Arthur Shilling Press" type="rss" xmlUrl="http://arthur-shilling-press.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Cambridge Literary Review." type="rss" xmlUrl="http://www.cambridgeliteraryreview.org/feed/"/>
+    <outline text="Cannot Exist" type="rss" xmlUrl="http://cannotexist.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Corridor8” | Contemporary Art &amp;amp; Writing Journal" type="rss" xmlUrl="http://www.corridor8.co.uk/feed/"/>
+    <outline text="Counterexample Poetics: Assemblage of Experimental Artistry" type="rss" xmlUrl="http://www.counterexamplepoetics.com/feeds/posts/default?alt=rss"/>
+    <outline text="IF P THEN Q" type="rss" xmlUrl="http://ifpthenq.co.uk/feed/"/>
+    <outline text="&quot;Intercapillary Space&quot;" type="rss" xmlUrl="http://intercapillaryspace.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Les Figues Press" type="rss" xmlUrl="http://www.lesfigues.com/feed/"/>
+    <outline text="otoliths" type="rss" xmlUrl="http://the-otolith.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Skysill Press" type="rss" xmlUrl="http://skysillpress.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Volume Two: Issue Three - spine writers bringing you the best new poetry" type="rss" xmlUrl="http://www.spinewriters.com/rss/blog"/>
+    <outline text="Welcome to&amp;nbsp;The Manchester Review" type="rss" xmlUrl="http://www.themanchesterreview.co.uk/?feed=rss2"/>
+    <outline text="the red ceilings" type="rss" xmlUrl="http://redceilings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="du-champ" type="rss" xmlUrl="http://du-champ.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="exp-net" type="rss" xmlUrl="http://exp-net.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="  G A M M M" type="rss" xmlUrl="http://gammm.org/index.php/feed/"/>
+    <outline text="GISTS &amp;amp; PITHS" type="rss" xmlUrl="http://gistsandpiths.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="GISTS &amp;amp; PITHS" type="rss" xmlUrl="http://gistsandpiths.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LiveBritishpoetry Twibe - LiveBritishpoetry Twitter People" type="rss" xmlUrl="http://www.twibes.com/group/LiveBritishpoetry/tweets.rss"/>
+    <outline text="MALE COUSIN | plotting yr demise" type="rss" xmlUrl="http://malecousin.wordpress.com/feed/"/>
+    <outline text="Manchester Writing" type="rss" xmlUrl="http://manchesterwriting.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PennSound" type="rss" xmlUrl="http://writing.upenn.edu/daily.xml"/>
+    <outline text="phactory" type="rss" xmlUrl="http://phanopoeia.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="slowforward" type="rss" xmlUrl="http://slowforward.wordpress.com/feed/"/>
+    <outline text="The Small Press Catalogue" type="rss" xmlUrl="http://smallpresscatalogue.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Page - poetry, essays, ideas" type="rss" xmlUrl="http://thepagename.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Wordsalad" type="rss" xmlUrl="http://wordsalad.wordpress.com/feed/"/>
+    <outline text=" (code 404) :: University of Southampton" type="rss" xmlUrl="http://www.soton.ac.uk/mediacentre/news/feeds/rssfeed.xml"/>
+    <outline text=" double change" type="rss" xmlUrl="http://doublechange.org/feed/"/>
+    <outline text="PennSound" type="rss" xmlUrl="http://www.writing.upenn.edu/daily.xml"/>
+    <outline text="cucpress Press" type="rss" xmlUrl="http://cucpress.tumblr.com/rss"/>
+    <outline text="Perdika Press" type="rss" xmlUrl="http://www.perdikapress.com/feed/"/>
+    <outline text="sine wave peak" type="rss" xmlUrl="http://www.sinewavepeak.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Small Press Catalogue" type="rss" xmlUrl="http://smallpresscatalogue.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="halfcircle poetry journal" type="rss" xmlUrl="http://halfcirclepoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="&quot;Intercapillary Space&quot;" type="rss" xmlUrl="http://intercapillaryspace.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PORES - A Journal of Poetics Research" type="rss" xmlUrl="http://www.pores.bbk.ac.uk/rss.xml"/>
+    <outline text="SCREE | All aboard the good ship SCREE." type="rss" xmlUrl="http://screemagazine.wordpress.com/feed/"/>
+    <outline text="Silliman's Blog" type="rss" xmlUrl="http://ronsilliman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="redellolsen | writing.  poetics.  performance.   art" type="rss" xmlUrl="http://redellolsen.co.uk/wordpress/?feed=rss2"/>
+    <outline text="the wanting is less interesting" type="rss" xmlUrl="http://mannemo.tumblr.com/rss"/>
+    <outline text="David Caddy" type="rss" xmlUrl="http://davidcaddy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Delirium's Library" type="rss" xmlUrl="http://deliriumslibrary.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jeffrey Side" type="rss" xmlUrl="http://jeffrey-side.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sociopathetic Semaphores" type="rss" xmlUrl="http://sociopatheticsemaphores.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the cultural society" type="rss" xmlUrl="http://www.culturalsociety.org/feed/"/>
+    <outline text="Grand Text Auto" type="rss" xmlUrl="http://grandtextauto.org/feed/"/>
+    <outline text="IF P THEN Q" type="rss" xmlUrl="http://ifpthenq.co.uk/feed/"/>
+    <outline text="Madinkbeard | Derik Badman" type="rss" xmlUrl="http://madinkbeard.com/feed"/>
+    <outline text="THE OTHER ROOM | Experimental poetry in Manchester" type="rss" xmlUrl="http://otherroom.org/feed/"/>
+    <outline text="abandonedbuildings" type="rss" xmlUrl="http://abandonedbuildings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="redellolsen | writing.  poetics.  performance.   art" type="rss" xmlUrl="http://redellolsen.co.uk/wordpress/?feed=rss2"/>
+    <outline text="the wanting is less interesting" type="rss" xmlUrl="http://mannemo.tumblr.com/rss"/>
+    <outline text="David Caddy" type="rss" xmlUrl="http://davidcaddy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Delirium's Library" type="rss" xmlUrl="http://deliriumslibrary.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jeffrey Side" type="rss" xmlUrl="http://jeffrey-side.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sociopathetic Semaphores" type="rss" xmlUrl="http://sociopatheticsemaphores.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Grand Text Auto" type="rss" xmlUrl="http://grandtextauto.org/feed/"/>
+    <outline text="IF P THEN Q" type="rss" xmlUrl="http://ifpthenq.co.uk/feed/"/>
+    <outline text="Madinkbeard | Derik Badman" type="rss" xmlUrl="http://madinkbeard.com/feed"/>
+    <outline text="THE OTHER ROOM | Experimental poetry in Manchester" type="rss" xmlUrl="http://otherroom.org/feed/"/>
+    <outline text="abandonedbuildings" type="rss" xmlUrl="http://abandonedbuildings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ambit magazine | Home | a 96 page quarterly magazine that features poetry, prose and artwork" type="rss" xmlUrl="http://www.ambitmagazine.co.uk/feed/"/>
+    <outline text="this empty nest | photos and images by angie werren" type="rss" xmlUrl="http://therer2doors.wordpress.com/feed/"/>
+    <outline text="Anon Poetry Magazine" type="rss" xmlUrl="http://anonpoetrymagazine.tumblr.com/rss"/>
+    <outline text="Arthur Shilling Press" type="rss" xmlUrl="http://arthur-shilling-press.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="dbqp: visualizing poetics" type="rss" xmlUrl="http://dbqp.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="etcetera" type="rss" xmlUrl="http://etceterart.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="IF P THEN Q" type="rss" xmlUrl="http://ifpthenq.co.uk/feed/"/>
+    <outline text="otoliths" type="rss" xmlUrl="http://the-otolith.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Plus-que-Parfait" type="rss" xmlUrl="http://plusqueparfaitblogspotcom.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poets.org - Poetry, Poems, Bios &amp; More" type="rss" xmlUrl="http://feeds.feedburner.com/PoetsOrg"/>
+    <outline text="Silliman's Blog" type="rss" xmlUrl="http://ronsilliman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THE OTHER ROOM | Experimental poetry in Manchester" type="rss" xmlUrl="http://otherroom.org/feed/"/>
+    <outline text="walkingintheceiling" type="rss" xmlUrl="http://walkingintheceiling.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="something katy" type="rss" xmlUrl="http://somethingkaty.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A window Within Myself" type="rss" xmlUrl="http://iamnasra.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="tackad" type="rss" xmlUrl="http://tackad.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blog Roll and Music Fiends - 32 Poems Magazine" type="rss" xmlUrl="http://www.32poems.com/blog/292/blog-roll-and-music-fiends/feed"/>
+    <outline text="~ Book of Kells" type="rss" xmlUrl="http://ofkells.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Libros" type="rss" xmlUrl="http://agreda.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Adam Aitken" type="rss" xmlUrl="http://adamaitken.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the interlingual zoo" type="rss" xmlUrl="http://theinterlingualzoo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sad Poems" type="rss" xmlUrl="http://www.alcoholicpoet.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Steiny Road to Operadom A book publishing trajectory" type="rss" xmlUrl="http://alenier.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="p-ramblings" type="rss" xmlUrl="http://allegrezza.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Archivo Bolao" type="rss" xmlUrl="http://garciamadero.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ivy is here no more" type="rss" xmlUrl="http://ivyai.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Mark on the Wall" type="rss" xmlUrl="http://themarkonthewall.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="akiliamina" type="rss" xmlUrl="http://akiliamina.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Indran Amirthanayagam" type="rss" xmlUrl="http://indranamirthanayagam.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="october in april." type="rss" xmlUrl="http://octoberinapril.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Unmuzzled OX" type="rss" xmlUrl="http://unmuzzledox.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Nin Andrews" type="rss" xmlUrl="http://ninandrewswriter.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Cecilia Ann" type="rss" xmlUrl="http://ceciliapoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Knocking From Inside" type="rss" xmlUrl="http://knockingfrominside.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PERSONALEEHKIN" type="rss" xmlUrl="http://leehkin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Letras Latinas Blog" type="rss" xmlUrl="http://latinopoetryreview.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Samizdat Blog" type="rss" xmlUrl="http://samizdatblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Longhouse Birdhouse" type="rss" xmlUrl="http://longhousepoetryandpublishers.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="One Night Stanzas  " type="rss" xmlUrl="http://www.readthismagazine.co.uk/onenightstanzas/?feed=rss2"/>
+    <outline text="passouline" type="rss" xmlUrl="http://passouline.blog.lemonde.fr/feed/"/>
+    <outline text="Margaret Atwood: Year of the Flood | Margaret Atwood: The Year of the Flood on WordPress.com weblog" type="rss" xmlUrl="http://marg09.wordpress.com/feed/"/>
+    <outline text="What I Meant to Say | Wendy Babiak&amp;#039;s Visions and Revisions" type="rss" xmlUrl="http://wbabiak.wordpress.com/feed/"/>
+    <outline text="Elizabeth Bachinsky" type="rss" xmlUrl="http://elizabethbachinsky.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="frankbaez" type="rss" xmlUrl="http://www.frankbaez.com/feeds/posts/default?alt=rss"/>
+    <outline text="Gawdeepah by Sheena Baharudin" type="rss" xmlUrl="http://gawdeepah.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Whimsy Speaks" type="rss" xmlUrl="http://www.whimsyspeaks.com/index.xml"/>
+    <outline text="PRRRR" type="rss" xmlUrl="http://prayerhelmet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="journal of a writing man" type="rss" xmlUrl="http://oldgreypoet.com/feed/"/>
+    <outline text="Litterbug" type="rss" xmlUrl="http://alan-baker.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="johnbakersblog" type="rss" xmlUrl="http://johnbakersblog.co.uk/feed/"/>
+    <outline text="Uncategorized | Jonathan Ball" type="rss" xmlUrl="http://www.jonathanball.com/?feed=rss2"/>
+    <outline text="Direct Objective" type="rss" xmlUrl="http://directobjective.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="NarcissusWorks" type="rss" xmlUrl="http://annyballardini.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="EYEBALL HATRED" type="rss" xmlUrl="http://claytonbanes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Earth With A City In Her Hair" type="rss" xmlUrl="http://earthwithcity.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Live Nude Poems" type="rss" xmlUrl="http://www.livenudepoems.com/feeds/posts/default?alt=rss"/>
+    <outline text="serif of nottingblog" type="rss" xmlUrl="http://serifofnottingham.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Pangrammaticon" type="rss" xmlUrl="http://pangrammaticon.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Plucked From Ogygia" type="rss" xmlUrl="http://pluckedfromogygia.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Bloggerare con lentezza" type="rss" xmlUrl="http://ziobastone.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="All These Weirdos" type="rss" xmlUrl="http://namingofthings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Gura's Blog" type="rss" xmlUrl="http://gura.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="___Chicks Dig Poetry___" type="rss" xmlUrl="http://sbeasley.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Faded Paper Project " type="rss" xmlUrl="http://fadedpaperproject.tumblr.com/rss"/>
+    <outline text="Formaldehyde: The Preservation of Poetry" type="rss" xmlUrl="http://formaldehydepoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Human's Animal" type="rss" xmlUrl="http://humanisanimal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="l'amour fou" type="rss" xmlUrl="http://tom-beckett.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="mikebegnal" type="rss" xmlUrl="http://mikebegnal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Annandale Dream Gazette" type="rss" xmlUrl="http://annandaledreamgazetteonline.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jim Behrle dot org" type="rss" xmlUrl="http://www.jimbehrle.org/feeds/posts/default?alt=rss"/>
+    <outline text="shaun belcher NEWS | all things Belcheresque&amp;#8230;" type="rss" xmlUrl="http://www.shaunbelcher.com/blog/?feed=rss2"/>
+    <outline text="small change" type="rss" xmlUrl="http://www.smallchangeblog.com/smallchangeblog/index.rdf"/>
+    <outline text="Philobiblon" type="rss" xmlUrl="http://philobiblon.co.uk/?feed=rss2"/>
+    <outline text="Shivvetee Vessels and Shards" type="rss" xmlUrl="http://shivvetee.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Zackary Sholem Berger" type="rss" xmlUrl="http://zackarysholemberger.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Kristin Berkey-Abbott" type="rss" xmlUrl="http://kristinberkey-abbott.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Oscar Bermeo: Intuitive Intertextuality" type="rss" xmlUrl="http://www.oscarbermeo.com/feed/"/>
+    <outline text="Charles Bernstein | Jacket2" type="rss" xmlUrl="http://jacket2.org/commentaries/feeds/5095"/>
+    <outline text="Mark Bernstein" type="rss" xmlUrl="http://markBernstein.org/news.rss"/>
+    <outline text="VerySmallKitchen | VerySmallKitchen" type="rss" xmlUrl="http://verysmallkitchen.com/feed/"/>
+    <outline text="De File" type="rss" xmlUrl="http://cbertsch.livejournal.com/data/rss"/>
+    <outline text="The Irascible Poet" type="rss" xmlUrl="http://irasciblepoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the word cage" type="rss" xmlUrl="http://wordcage.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="RealityStudio" type="rss" xmlUrl="http://realitystudio.org/feed/"/>
+    <outline text="Joe Blades" type="rss" xmlUrl="http://brokenjoe.blogspot.com/feeds/posts/default?alt=rss"/><?xml version="1.0" encoding="ISO-8859-1"?>
+    <outline text="disappearing books | dedicated to the ephemeral poetry of daily life" type="rss" xmlUrl="http://disappearingbooks.com/feed/"/>
+    <outline text="Ana Verse" type="rss" xmlUrl="http://annbogle.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Century of Nerve" type="rss" xmlUrl="http://emmabolden.com/feed/"/>
+    <outline text="Ridiculous Human Things" type="rss" xmlUrl="http://ridiculoushuman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="abandonedbuildings" type="rss" xmlUrl="http://abandonedbuildings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Via Negativa | A literary weblog." type="rss" xmlUrl="http://www.vianegativa.us/feed/"/>
+    <outline text="Philosophical Investigator" type="rss" xmlUrl="http://billborneman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="nice guy syndrome" type="rss" xmlUrl="http://giuseppeblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jenny Boully" type="rss" xmlUrl="http://www.jennyboully.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry and Poets in Rags " type="rss" xmlUrl="http://poetryandpoetsinrags.blogspot.com/feeds/posts/default?alt=rss"/> 
+    <outline text="dulcetly..." type="rss" xmlUrl="http://kristybowen.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="tributary" type="rss" xmlUrl="http://tribute-airy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Susie Bright's Journal " type="rss" xmlUrl="http://susiebright.blogs.com/susie_brights_journal_/index.rdf"/>
+    <outline text="A Pelt, a shrub, a soil sample" type="rss" xmlUrl="http://ignoretheventriloquists.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WE ARE HOMER" type="rss" xmlUrl="http://wearehomer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Dispatches from Tanganyika" type="rss" xmlUrl="http://docbrite.livejournal.com/data/rss"/>
+    <outline text="Gods and Money" type="rss" xmlUrl="http://godsandmoney.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A defense of the beautiful and broken" type="rss" xmlUrl="http://poetr1x.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="How a Poem Happens" type="rss" xmlUrl="http://howapoemhappens.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Watermark" type="rss" xmlUrl="http://www.sbpoet.com/index.rdf"/>
+    <outline text="I Was Born Doing Reference Work in Sin | the musings of Dustin Brookshire" type="rss" xmlUrl="http://dustinbrookshire.wordpress.com/feed/"/>
+    <outline text="the deletions" type="rss" xmlUrl="http://thedeletions.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sarah Browning" type="rss" xmlUrl="http://sarahbrowning.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Asthma Chronicles" type="rss" xmlUrl="http://asthmachronicles.com/feed/"/>
+    <outline text="nervous unto thirst" type="rss" xmlUrl="http://nervousuntothirst.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Writing Way North Writing Way North Writing" type="rss" xmlUrl="http://writingwaynorth.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blog : Simmons B. Buntin" type="rss" xmlUrl="http://blog.simmonsbuntin.com/feed/"/>
+    <outline text="hi spirits" type="rss" xmlUrl="http://hispirits.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LIKE IT OR NOT:Ted Burke" type="rss" xmlUrl="http://www.ted-burke.com/feeds/posts/default?alt=rss"/>
+    <outline text="Solid Quarter" type="rss" xmlUrl="http://solidquarter.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poet/Writer/Photographer/Ad Guy" type="rss" xmlUrl="http://rickbursky.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Little Professor" type="rss" xmlUrl="http://littleprofessor.typepad.com/the_little_professor/index.rdf"/>
+    <outline text="Blake Butler |||| G D C S + S W D P" type="rss" xmlUrl="http://www.gillesdeleuzecommittedsuicideandsowilldrphil.com/feeds/posts/default?alt=rss"/>
+    <outline text="Buuck/BARGE | news and notes" type="rss" xmlUrl="http://buuckbarge.wordpress.com/feed/"/>
+    <outline text="Everybody Funny" type="rss" xmlUrl="http://everybodyfunny.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="HERE, WHERE I AM" type="rss" xmlUrl="http://kathrynstriplingbyer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Bobby Byrd" type="rss" xmlUrl="http://whitepantiesanddeadfriends.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="David Byrne's Journal" type="rss" xmlUrl="http://journal.davidbyrne.com/index.rdf"/>
+    <outline text="One Poet's Notes" type="rss" xmlUrl="http://edwardbyrne.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Heaven" type="rss" xmlUrl="http://maireadbyrne.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="gramatologia" type="rss" xmlUrl="http://gramatologia.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jdcalkins2001&amp;#039;s Weblog | Things Other Than Quail (for the most part)&amp;#8211;e.g. children, art, literature, yoga, science&amp;#8230;.." type="rss" xmlUrl="http://jdcalkins2001.wordpress.com/feed/"/>
+    <outline text="The Casual Tee" type="rss" xmlUrl="http://trevorcalvert.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="All Types" type="rss" xmlUrl="http://camlot.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Out of the Woodwork" type="rss" xmlUrl="http://briancampbell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Songs To A Midnight Sky" type="rss" xmlUrl="http://poeticinspire.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Kara Candito | Poet &amp;#8211; Official Website" type="rss" xmlUrl="http://karacandito.com/feed/"/>
+    <outline text="visoundtextpoem" type="rss" xmlUrl="http://visoundtextpoem.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Blog of Lewd Enlightenment" type="rss" xmlUrl="http://theblogoflewdenlightenment.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Carbonator" type="rss" xmlUrl="http://carbonator.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Chicano Poet" type="rss" xmlUrl="http://chicanopoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="We who love to be astonished" type="rss" xmlUrl="http://www.mackenziecarignan.com/feeds/posts/default?alt=rss"/>
+    <outline text="Elephant House" type="rss" xmlUrl="http://claudiacarlson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="infinity report" type="rss" xmlUrl="http://infinityreport.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry from the Orchard" type="rss" xmlUrl="http://igorevich.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Carter's Little Pill" type="rss" xmlUrl="http://www.juliecarter.net/blog/feed/"/>
+    <outline text="Blog | Jessie Carty" type="rss" xmlUrl="http://jessiecarty.wordpress.com/feed/"/>
+    <outline text="Ambit's Gambit (Albert B. Casuga Literary Blog)" type="rss" xmlUrl="http://ambitsgambit.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="compostxt" type="rss" xmlUrl="http://compostxt.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="New York, Provence, Poetry" type="rss" xmlUrl="http://blog.maryanncaws.com/feeds/posts/default?alt=rss"/>
+    <outline text="interval interventions" type="rss" xmlUrl="http://persuasionaswords.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lorna Dee Cervantes" type="rss" xmlUrl="http://lornadice.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Works Cited" type="rss" xmlUrl="http://nataliacecire.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Reluctant Habits | a cultural forum in ever-shifting standing" type="rss" xmlUrl="http://www.edrants.com/feed/"/>
+    <outline text="Victoria Chang" type="rss" xmlUrl="http://victoriamchang.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry &amp; Popular Culture" type="rss" xmlUrl="http://mikechasar.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Geoffrey Chaucer Hath a Blog" type="rss" xmlUrl="http://houseoffame.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Legacy of Henry Corbin" type="rss" xmlUrl="http://henrycorbinproject.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="diabetes sucks" type="rss" xmlUrl="http://pinchmealfredo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Mumpsimus" type="rss" xmlUrl="http://mumpsimus.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tanya Chernov | Author of A Real Emotional Girl (Skyhorse, 2012)" type="rss" xmlUrl="http://tanyachernov.wordpress.com/feed/"/>
+    <outline text="Roma" type="rss" xmlUrl="http://abigailchildroma.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="DAVID-BAPTISTE CHIROT" type="rss" xmlUrl="http://davidbaptistechirot.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="this is yogic | I am the island" type="rss" xmlUrl="http://thisisyogic.wordpress.com/feed/"/>
+    <outline text="Birthdays of Poets" type="rss" xmlUrl="http://birthdaysofpoets.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="blog.rightreading.com" type="rss" xmlUrl="http://www.rightreading.com/blog/feed/"/>
+    <outline text="pasaudela" type="rss" xmlUrl="http://pasaudela.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="peter ciccariello" type="rss" xmlUrl="http://poemsfromprovidence.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Leftover Flying" type="rss" xmlUrl="http://paulacisewski.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Openterrified" type="rss" xmlUrl="http://openterrified.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="No Help for That | Jackie Clark | poems, etc." type="rss" xmlUrl="http://nohelpforthat.com/feed/"/>
+    <outline text="go home lambs" type="rss" xmlUrl="http://almostrevelations.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="TOM CLARK" type="rss" xmlUrl="http://tomclarkblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Maxine Beneba Clarke" type="rss" xmlUrl="http://slamup.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The There Blog" type="rss" xmlUrl="http://therejournal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Not Yet There" type="rss" xmlUrl="http://not-yet-there.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lunch Time For Bears" type="rss" xmlUrl="http://lunchtimeforbears.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="BillyBlog" type="rss" xmlUrl="http://oxypoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="$650 apartment for $650" type="rss" xmlUrl="http://onthemessiersideofneat.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Writing the Life Poetic" type="rss" xmlUrl="http://writingthelifepoetic.typepad.com/writing_the_life_poetic/index.rdf"/>
+    <outline text="Todd Colby's Glee Farm" type="rss" xmlUrl="http://gleefarm.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Urge" type="rss" xmlUrl="http://theurgepoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Nolens Volens and Eidolons" type="rss" xmlUrl="http://elizabethjcolen.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ed Coletti's P3" type="rss" xmlUrl="http://edcolettip3.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Love During Wartime" type="rss" xmlUrl="http://jacsongs.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Working Artist's Journal" type="rss" xmlUrl="http://workingartistsjournal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ironstone whirlygig" type="rss" xmlUrl="http://ironstonewhirlygig.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="P=o=l=i=s==is==e=y=e=s" type="rss" xmlUrl="http://polisiseyes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blood Pudding Press (and More)" type="rss" xmlUrl="http://bloodyooze.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="DC's" type="rss" xmlUrl="http://denniscooper-theweaklings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Page not found &amp;laquo;  alancordle.com" type="rss" xmlUrl="http://alancordle.com/feed/"/>
+    <outline text="Cahiers de Corey" type="rss" xmlUrl="http://joshcorey.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Topics and Events" type="rss" xmlUrl="http://topicsevent.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poetontheprowl" type="rss" xmlUrl="http://poetontheprowl.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lorcaloca" type="rss" xmlUrl="http://lorcaloca.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Chris Corrigan" type="rss" xmlUrl="http://chriscorrigan.com/parkinglot/?feed=rss2"/>
+    <outline text="gravity and light" type="rss" xmlUrl="http://gravityandlight.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="jpcraig" type="rss" xmlUrl="http://jpcraig.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ray Craig: Dada Kamishibai (working notes)" type="rss" xmlUrl="http://pressflat.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jason Crane (dot org)" type="rss" xmlUrl="http://jasoncrane.org/feed/"/>
+    <outline text="anachronizms" type="rss" xmlUrl="http://anachronizms.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THE DISINHIBITOR" type="rss" xmlUrl="http://disinhibitor.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Purple Mountain Poetry" type="rss" xmlUrl="http://purplemountainpoems.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="John Crowley Little and Big" type="rss" xmlUrl="http://crowleycrow.livejournal.com/data/rss"/>
+    <outline text="mosses from an old manse" type="rss" xmlUrl="http://mossesfromanoldmanse2.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="XZentrick Libretti" type="rss" xmlUrl="http://xzentricklibretti.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="DYE HARD PRESS" type="rss" xmlUrl="http://dyehard-press.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Twenty Thousand Thousand" type="rss" xmlUrl="http://brentcunningham.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Spicaresque" type="rss" xmlUrl="http://spicaresque.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="All Things Said &amp; Done" type="rss" xmlUrl="http://maritadachsel.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="revising loneliness" type="rss" xmlUrl="http://stacyelainedacheux.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Rocket Kids" type="rss" xmlUrl="http://dacusrocket.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Burning Patience" type="rss" xmlUrl="http://aburningpatience.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Arjentola. State of everyday life." type="rss" xmlUrl="http://arjentola.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="santiago's dead wasp" type="rss" xmlUrl="http://santiagosdeadwasp.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="my version" type="rss" xmlUrl="http://cadaly.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Text, Textile, Exile: Now I Wanna Be Your Blog" type="rss" xmlUrl="http://www.hyperpoesia.net/feeds/posts/default?alt=rss"/>
+    <outline text="jane dark's sugarhigh!" type="rss" xmlUrl="http://janedark.com/index.xml"/>
+    <outline text="arthur+martha" type="rss" xmlUrl="http://arthur-and-martha.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Light reading" type="rss" xmlUrl="http://jennydavidson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="dumbfoundry" type="rss" xmlUrl="http://dumbfoundry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Natures" type="rss" xmlUrl="http://naturespoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Hitler's Mustache" type="rss" xmlUrl="http://hitlersmustache.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="all over the grid" type="rss" xmlUrl="http://fallopianyoutube.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Writing Life II" type="rss" xmlUrl="http://cdeemer2007.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WordPress.com &amp;#8212; Get a Free Blog Here" type="rss" xmlUrl="http://en.blog.wordpress.com/feed/"/>
+    <outline text="Goblin Mercantile Exchange" type="rss" xmlUrl="http://www.goblinmercantileexchange.com/feed/"/>
+    <outline text="susan denning" type="rss" xmlUrl="http://caffeinedestiny.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="~*~OVARIES  &amp;amp; SEQUINS~*~" type="rss" xmlUrl="http://ovariessequins.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="thomas devaney" type="rss" xmlUrl="http://thomasdevaney.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Frankenstein vs. the World  " type="rss" xmlUrl="http://endingthealphabet.org/?feed=rss2"/>
+    <outline text="demystifiedpoet" type="rss" xmlUrl="http://demystifiedpoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jennifer K Dick" type="rss" xmlUrl="http://jenniferkdick.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Word-Dreamer: poetics" type="rss" xmlUrl="http://didiodatoc.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="vowel movements" type="rss" xmlUrl="http://juliedill.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Ideophone | Sounding out ideas on African languages, vivid sensory words, and iconicity" type="rss" xmlUrl="http://ideophone.org/feed/"/>
+    <outline text="Detainees" type="rss" xmlUrl="http://wwwwsonneteighteencom.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="f a l l i n g    i n   r e a l   t i m e" type="rss" xmlUrl="http://adipietra.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Writing Without Paper" type="rss" xmlUrl="http://writingwithoutpaper.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Coalescence - Benjamin Dodds" type="rss" xmlUrl="http://benjamindodds.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Wild Horses Of Fire" type="rss" xmlUrl="http://whof.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blonde On Ponde" type="rss" xmlUrl="http://dorholtt.wordpress.com/feed/"/>
+    <outline text="Mark Doty" type="rss" xmlUrl="http://markdoty.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="flipflopmailart" type="rss" xmlUrl="http://flipflopmailart.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="52 moons" type="rss" xmlUrl="http://52moons.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="hypoetics" type="rss" xmlUrl="http://hypoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Notes from the Gefilte Review..." type="rss" xmlUrl="http://gefiltereview.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Reading &amp;amp; Writing" type="rss" xmlUrl="http://www.sharpsand.net/feed/"/>
+    <outline text="Radio DelEuZe" type="rss" xmlUrl="http://radioradiodeleuze.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="graveney marsh" type="rss" xmlUrl="http://graveneymarsh.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="spare the // donald dunbar" type="rss" xmlUrl="http://sparethe.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="iPrincess Diaries" type="rss" xmlUrl="http://katedurbin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Dragoncave" type="rss" xmlUrl="http://artdurkee.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Literary Blog of Amanda Earl" type="rss" xmlUrl="http://amandaearl.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Old News" type="rss" xmlUrl="http://ryaneckes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ECKOVISION | Visual, Concrete, Shape Poetry, Calligrams, Typography" type="rss" xmlUrl="http://eckovision.wordpress.com/feed/"/>
+    <outline text="Luca Antara" type="rss" xmlUrl="http://lucaantara.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Reality Street : Ken Edwards" type="rss" xmlUrl="http://www.realitystreet.co.uk/kens-blog.rss"/>
+    <outline text="The Ellingham Digest | Your source for all things Lew Ellingham" type="rss" xmlUrl="http://lewellingham.wordpress.com/feed/"/>
+    <outline text="loriemerson" type="rss" xmlUrl="http://loriemerson.net/feed/"/>
+    <outline text="Hoostown: &amp;quot;What a [cutting-edge] piece of [art.]&amp;quot; | The Internet + Me = The Internet." type="rss" xmlUrl="http://hoostown.wordpress.com/feed/"/>
+    <outline text="Albany Poetra" type="rss" xmlUrl="http://albanypoetrm.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Julie R. Enszer" type="rss" xmlUrl="http://julierenszer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Conversational Reading" type="rss" xmlUrl="http://conversationalreading.com/feed/"/>
+    <outline text="NICE IS A WEAPON" type="rss" xmlUrl="http://niceisaweapon.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Flux Capacitor" type="rss" xmlUrl="http://poemsandnovels.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Carrie Etter" type="rss" xmlUrl="http://carrieetter.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="utahpoet" type="rss" xmlUrl="http://utahpoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Living the Journey" type="rss" xmlUrl="http://beingandwriting.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="we&amp;#039;ve moved to baroqueinhackney.com | poetry, criticism and comment" type="rss" xmlUrl="http://baroqueinhackney.wordpress.com/feed/"/>
+    <outline text="Bernardine Evaristo" type="rss" xmlUrl="http://bevaristo.com/feed/"/>
+    <outline text="Caterina.net" type="rss" xmlUrl="http://caterina.net/feed/"/>
+    <outline text="the glade of theoric ornithic hermetica" type="rss" xmlUrl="http://stevenfama.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THEN, SOMETHING: Notes from Cold River" type="rss" xmlUrl="http://patfargnoli.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="mRjonesrEview" type="rss" xmlUrl="http://mjonesrview.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Michael Farry" type="rss" xmlUrl="http://michaelfarry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Compass Rose" type="rss" xmlUrl="http://compassrosebooks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Pansy Poetics" type="rss" xmlUrl="http://pansypoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Writing Down the Path | Musings on be(com)ing a writer" type="rss" xmlUrl="http://ronafernandez.wordpress.com/feed/"/>
+    <outline text="Where the Trail Leaves the Cherry Thickets" type="rss" xmlUrl="http://cherilynferroggiaro.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Stoning the Devil" type="rss" xmlUrl="http://adamfieled.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WordPress.com &amp;#8212; Get a Free Blog Here" type="rss" xmlUrl="http://en.blog.wordpress.com/feed/"/>
+    <outline text="fierenspostcardcollab" type="rss" xmlUrl="http://fierenspostcardcollab.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Al Filreis" type="rss" xmlUrl="http://afilreis.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="American Witch" type="rss" xmlUrl="http://annieridleycranefinch.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CrazyApple Press" type="rss" xmlUrl="http://crazyapplepress.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ursprache" type="rss" xmlUrl="http://ursprache.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ASTHMABOY" type="rss" xmlUrl="http://asthmaboy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Strange Land Poems" type="rss" xmlUrl="http://strangelandpoems.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Deeplinking" type="rss" xmlUrl="http://feeds.feedburner.com/Deeplinking"/>
+    <outline text="word pond | a curatorial content blog on contemporary poetry, including haiku, haibun, &amp;amp; tanka, ecopoetics, and permaculture" type="rss" xmlUrl="http://donnafleischer.wordpress.com/feed/"/>
+    <outline text="Word Nerd" type="rss" xmlUrl="http://marissaforbes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Adam Ford: poet, novelist, zinemaker, comic artist, show-off | 2011 australian poetry slam highest scoring local poet (castlemaine heat)" type="rss" xmlUrl="http://theotheradamford.wordpress.com/feed/"/>
+    <outline text="The Star Spangled Banana" type="rss" xmlUrl="http://starspangledbanana.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ftrain.com" type="rss" xmlUrl="http://www.ftrain.com/xml/feed/rss.xml"/>
+    <outline text="East Los Angeles Dirigible Air Transport Lines | Just another WordPress.com weblog" type="rss" xmlUrl="http://atomikaztex.wordpress.com/feed/"/>
+    <outline text="My Blog | My WordPress Blog" type="rss" xmlUrl="http://everythingfeedsprocess.com/feed/"/>
+    <outline text="The Recalcitrant Scrivener" type="rss" xmlUrl="http://therecalcitrantscrivener.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A fallow blooming" type="rss" xmlUrl="http://angelafrance.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Erik's Choice" type="rss" xmlUrl="http://eriklerouge.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="SIMPLY WAIT" type="rss" xmlUrl="http://simplywait.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Last Bender" type="rss" xmlUrl="http://lastbender.com/feed/"/>
+    <outline text="hey baby" type="rss" xmlUrl="http://moresonow.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="American Poetry in the Age of Whitman and Dickinson" type="rss" xmlUrl="http://ampoarchive.wordpress.com/feed/"/>
+    <outline text="Fritinancy" type="rss" xmlUrl="http://nancyfriedman.typepad.com/away_with_words/index.rdf"/>
+    <outline text="litwindowpane" type="rss" xmlUrl="http://litwindowpane.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The French Exit" type="rss" xmlUrl="http://thefrenchexit.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" Jeannine Hall Gailey" type="rss" xmlUrl="http://www.webbish6.com/feed/"/>
+    <outline text="Neil Gaiman's Journal" type="rss" xmlUrl="http://journal.neilgaiman.com/feeds/posts/default?alt=rss"/>
+    <outline text="Nothing to Say &amp;amp; Saying It" type="rss" xmlUrl="http://jjgallaher.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PostClassic" type="rss" xmlUrl="http://feeds.feedburner.com/postclassic"/>
+    <outline text="Overlap" type="rss" xmlUrl="http://drewgardner.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=":  Micawberesque : Susana Gardner's eternally optimistic blog of poetics..." type="rss" xmlUrl="http://micawberesque.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="BlazeVOX [blog]" type="rss" xmlUrl="http://blazevoxblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Day on Fire" type="rss" xmlUrl="http://thedayonfire.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A View from the Potholes" type="rss" xmlUrl="http://mariegauthier.wordpress.com/feed/"/>
+    <outline text="Bernadette Geyer" type="rss" xmlUrl="http://bernadettegeyer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Amlokiblogs" type="rss" xmlUrl="http://amloki.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Arroyo Chamisa" type="rss" xmlUrl="http://arroyochamisa.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" PoemShape" type="rss" xmlUrl="http://poemshape.wordpress.com/feed/"/>
+    <outline text="apple of the earth" type="rss" xmlUrl="http://appleoftheearth.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Allen Ginsberg Project" type="rss" xmlUrl="http://ginsbergblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="differx" type="rss" xmlUrl="http://differx.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Writer in the Moment -    A Blog For  People Who  Never Read Poetry  &amp;amp; For Those Who Do" type="rss" xmlUrl="http://elizabeth-inthemoment.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Can of Corn" type="rss" xmlUrl="http://canofcornforyou2.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Guy LeCharles Gonzalez | @glecharles | loudpoet.com: Blogging it like it is since 2003" type="rss" xmlUrl="http://loudpoet.com/feed/"/>
+    <outline text="Axis of Abraxas: A Poetry Blog" type="rss" xmlUrl="http://jessicagoodfellow.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Brent Goodman" type="rss" xmlUrl="http://brentgoodman.wordpress.com/feed/"/>
+    <outline text="Montevidayo - " type="rss" xmlUrl="http://www.montevidayo.com/feed/"/>
+    <outline text="The Jane Day Reader" type="rss" xmlUrl="http://janedayreader.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="~~ululations~~" type="rss" xmlUrl="http://ululate.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Mystic's Journey" type="rss" xmlUrl="http://prefirstdrafts.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Cadmium Text Series" type="rss" xmlUrl="http://cadmiumtextseries.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="daphne gottlieb" type="rss" xmlUrl="http://postmaudlin.livejournal.com/data/rss"/>
+    <outline text="HG Poetics" type="rss" xmlUrl="http://hgpoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LIGHTBOX" type="rss" xmlUrl="http://markgranier.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Line Art" type="rss" xmlUrl="http://jason-gray.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Reading Experience" type="rss" xmlUrl="http://noggs.typepad.com/the_reading_experience/index.rdf"/>
+    <outline text="Timothy Green | No aim is necessary; nothing is true." type="rss" xmlUrl="http://www.timothy-green.org/blog/feed/"/>
+    <outline text="accumulations" type="rss" xmlUrl="http://tony_green.typepad.com/accu/index.rdf"/>
+    <outline text="SYMPTOMS OF ______ THEORIES" type="rss" xmlUrl="http://symptoms-of-theories.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the world a letter" type="rss" xmlUrl="http://stuartgreenhouse.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Susan Kaiser Greenland - Blog" type="rss" xmlUrl="http://mindfulmom.com_/blog/feed.html?type=rss"/>
+    <outline text="Life Long Press" type="rss" xmlUrl="http://lifelongpress.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Wingtips" type="rss" xmlUrl="http://paulagrenside.typepad.com/wingtips/index.rdf"/>
+    <outline text="otherwise" type="rss" xmlUrl="http://ndgwriting.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Second Balcony" type="rss" xmlUrl="http://secondbalcony.tumblr.com/rss"/>
+    <outline text=" POETICKS" type="rss" xmlUrl="http://poeticks.com/feed/"/>
+    <outline text="." type="rss" xmlUrl="http://gabrielgudding.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Syntax Is A Second Skin" type="rss" xmlUrl="http://carolguess.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Almost I rushed from home to tell you this" type="rss" xmlUrl="http://paulguest.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Writing the Polish Diaspora" type="rss" xmlUrl="http://writingpolishdiaspora.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the dust congress" type="rss" xmlUrl="http://falsedawn.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Primitive Information | the knowledge of contrast, feeling for light and shade, all that information (primitive sense) necessary for a poem" type="rss" xmlUrl="http://habenichtpress.com/index.php/?feed=rss2"/>
+    <outline text="Land Mammal" type="rss" xmlUrl="http://landmammal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="a teacozy is a sometimes" type="rss" xmlUrl="http://ateacozyisasometimes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="I'll Show You Mine" type="rss" xmlUrl="http://shaferhall.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Seven Corners" type="rss" xmlUrl="http://sevencornerspoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Hear, Hear" type="rss" xmlUrl="http://forresthamer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Curiosa Hamiltona" type="rss" xmlUrl="http://curiosahamiltona.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="this is all your fault" type="rss" xmlUrl="http://chamm.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="http://www.lispservice.com/blog/?feed=rss2" type="rss" xmlUrl="http://www.lispservice.com/blog/?feed=rss2"/>
+    <outline text="Sixth In Line" type="rss" xmlUrl="http://sixthinline.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Experimental   Fiction / Poetry" type="rss" xmlUrl="http://experimentalfictionpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="a bewildering search" type="rss" xmlUrl="http://bewilderingsearch.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Joy Harjo's Poetic Adventures in the Last World  Blog" type="rss" xmlUrl="http://joyharjo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Joshua Harmon" type="rss" xmlUrl="http://joshuaharmon.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blog of Myself" type="rss" xmlUrl="http://josephharrington.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Noctuary: a record of what passes in the night" type="rss" xmlUrl="http://reggieh.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Page of Woe Absolved" type="rss" xmlUrl="http://pageofwoeabsolved.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Bewilderment Inc." type="rss" xmlUrl="http://sincerityinc.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Walk Around the Lake" type="rss" xmlUrl="http://pamelahart.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Out of orbit: F James Hartnell" type="rss" xmlUrl="http://fjameshartnell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="a collection of thoughs" type="rss" xmlUrl="http://wordyness.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Woody Haut's Blog" type="rss" xmlUrl="http://woodyhaut.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry is Everywhere - Just Look" type="rss" xmlUrl="http://averagepoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="HelenHeath.com" type="rss" xmlUrl="http://www.helenheath.com/rss.xml"/>
+    <outline text="Poetry, Politics, Collapse" type="rss" xmlUrl="http://poetrypoliticscollapse.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="orium" type="rss" xmlUrl="http://oriuminprocess.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Terminal Chaosity" type="rss" xmlUrl="http://lauraheidy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="graywyvern" type="rss" xmlUrl="http://graywyvern.livejournal.com/data/rss"/>
+    <outline text="poetry &amp;amp; ideas" type="rss" xmlUrl="http://collectedworks-poetryideas.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="] Outside The Lines [ | A place for writers to consider how identity shapes creativity." type="rss" xmlUrl="http://areyououtsidethelines.wordpress.com/feed/"/>
+    <outline text="Barbara Henning" type="rss" xmlUrl="http://barbarahenning.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Hyacinth Losers" type="rss" xmlUrl="http://hyacinthlosers.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Composite: thoughts on poetics &amp;amp; tech" type="rss" xmlUrl="http://liz-henry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="erasing.org" type="rss" xmlUrl="http://erasing.org/feed/"/>
+    <outline text="you are here" type="rss" xmlUrl="http://apapoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="brightstupidconfetti" type="rss" xmlUrl="http://www.brightstupidconfetti.com/feeds/posts/default?alt=rss"/>
+    <outline text="Crg Hill's poetry scorecard" type="rss" xmlUrl="http://scorecard.typepad.com/crag_hills_poetry_score/index.rdf"/>
+    <outline text="A Flaw in the Motor" type="rss" xmlUrl="http://aflawinthemotor.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Canary Woof" type="rss" xmlUrl="http://canarywoof.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Chant de la Sirene" type="rss" xmlUrl="http://www.chantdelasirene.com/feeds/posts/default?alt=rss"/>
+    <outline text="Amanda Hocking's Blog" type="rss" xmlUrl="http://amandahocking.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="GalleyCat - The First Word On the Book Publishing Industry" type="rss" xmlUrl="http://www.mediabistro.com/galleycat/rss/"/>
+    <outline text="Mediabistro: jobs, classes, community and news for media professionals" type="rss" xmlUrl="http://www.mediabistro.com/news/rss/"/>
+    <outline text="Sara Holbrook's Blog Spot" type="rss" xmlUrl="http://saraholbrook.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Boston Area Small Press and Poetry Scene" type="rss" xmlUrl="http://dougholder.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poets On Fire" type="rss" xmlUrl="http://poetsonfire.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Being Poetry" type="rss" xmlUrl="http://www.beingpoetry.net/feed/"/>
+    <outline text="Paul Hoover's Poetry Blog" type="rss" xmlUrl="http://paulhooverpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Thomas Israel Hopkins Mimeograph 2.0 Paradigm!" type="rss" xmlUrl="http://tomhop.com/feed/"/>
+    <outline text="ACTIVE DRIVEWAY" type="rss" xmlUrl="http://activedriveway-mth.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Union Herald" type="rss" xmlUrl="http://unionherald.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Invasive Species" type="rss" xmlUrl="http://yuriverse.livejournal.com/data/rss"/>
+    <outline text="Joan Houlihan" type="rss" xmlUrl="http://joanhoulihan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blog This Rock" type="rss" xmlUrl="http://blogthisrock.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Practice &amp;amp; Craft" type="rss" xmlUrl="http://practiceandcraft.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jubilated Rain" type="rss" xmlUrl="http://jubilatedrain.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Hair Styles for Women" type="rss" xmlUrl="http://rosehunterblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Critical Cities" type="rss" xmlUrl="http://djhuppatz.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Literrata" type="rss" xmlUrl="http://mohurley.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Perpetual Bird" type="rss" xmlUrl="http://perpetualbird.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="dbqp: visualizing poetics" type="rss" xmlUrl="http://dbqp.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Approximate L" type="rss" xmlUrl="http://approximatel.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="TRAVEL  TOUR BEAUTIFUL PLACES ON EARTH" type="rss" xmlUrl="http://lizardmeanders.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sketch of an Astronaut" type="rss" xmlUrl="http://sketchofanastronaut.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LoveSettlement" type="rss" xmlUrl="http://lovesettlement.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="bhairo in the morning" type="rss" xmlUrl="http://bhairava.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PICNIC CANNIBAL" type="rss" xmlUrl="http://jamieiredell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="DIRELAND" type="rss" xmlUrl="http://direland.typepad.com/direland/index.rdf"/>
+    <outline text="rosemarieito" type="rss" xmlUrl="http://rosemarieito.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Poetic Matter - Faith. Life. Poetry." type="rss" xmlUrl="http://apoeticmatter.com/feed/"/>
+    <outline text="    The New Post-literate:  A Gallery Of Asemic Writing" type="rss" xmlUrl="http://thenewpostliterate.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="O Sweet Flowery Roses BLOG" type="rss" xmlUrl="http://osfrjournal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Oceanographer of O" type="rss" xmlUrl="http://theunderfoot.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lesley Jenike" type="rss" xmlUrl="http://lbojengles.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Nation of Accusers" type="rss" xmlUrl="http://nationofaccusers.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Dream of the Unified Media" type="rss" xmlUrl="http://kinemapoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Name-Ism" type="rss" xmlUrl="http://nameism.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Books LIVE - Liesl Jobson" type="rss" xmlUrl="http://liesljobson.bookslive.co.za/blog/feed/"/>
+    <outline text="Meta Watershed" type="rss" xmlUrl="http://maggiesmetawatershed.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Working notes" type="rss" xmlUrl="http://mikejohnduff.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poetry notebook&amp;nbsp;&amp;#8212;&amp;nbsp;relates to poetry one way or another even when it doesn&amp;#039;t" type="rss" xmlUrl="http://dirk-johnson.com/wpblog/?feed=rss2"/>
+    <outline text="Entropy and me" type="rss" xmlUrl="http://entropyandme.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Meg Johnson" type="rss" xmlUrl="http://megjohnsonmegjohnson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="stevenberlinjohnson.com" type="rss" xmlUrl="http://www.stevenberlinjohnson.com/index.rdf"/>
+    <outline text="this, that and the third" type="rss" xmlUrl="http://fredjoiner.wordpress.com/feed/"/>
+    <outline text="Dick Jones' Patteran Pages" type="rss" xmlUrl="http://patteran.typepad.com/patteran_pages/index.rdf"/>
+    <outline text="Ruby Street" type="rss" xmlUrl="http://rubystreet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="          belgianwaffle" type="rss" xmlUrl="http://jjbelgianwaffle.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="scribblingwoman2 | Now with vitamins and minerals." type="rss" xmlUrl="http://scribblingwoman2.wordpress.com/feed/"/>
+    <outline text="Home | Saeed JonesSaeed Jones" type="rss" xmlUrl="http://saeedjones.com/feed/"/>
+    <outline text="S/FJ" type="rss" xmlUrl="http://www.sashafrerejones.com/index.rdf"/>
+    <outline text="Nomadics &amp;#8212; Meanderings &amp;amp; mawqifs of poetry, poetics, translations y mas. Travelogue too." type="rss" xmlUrl="http://www.pierrejoris.com/blog/?feed=rss2"/>
+    <outline text="Howard Junker - " type="rss" xmlUrl="http://howardjunker.com/?feed=rss2"/>
+    <outline text="lauriejunkins" type="rss" xmlUrl="http://www.lauriejunkins.com/?feed=rss2"/>
+    <outline text="Fool's Errand" type="rss" xmlUrl="http://tchitcherine2.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Shikow" type="rss" xmlUrl="http://shikow.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=".......(( insani kamil, the blog ))......." type="rss" xmlUrl="http://insanikamil.canalblog.com/rss.xml"/>
+    <outline text="mlle megan" type="rss" xmlUrl="http://mllemegan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Was Jack Kerouac A Punjabi?" type="rss" xmlUrl="http://jackkerouacispunjabi.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Forest and The Trees" type="rss" xmlUrl="http://genevievekaplan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lovers' Last Go Around" type="rss" xmlUrl="http://stevenkarl.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Intagliod Up in Blue" type="rss" xmlUrl="http://intagliodupinblue.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="negative wingspan" type="rss" xmlUrl="http://negativewingspan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="your beloved revolutionary sweetheart" type="rss" xmlUrl="http://revolutionarysweetheart.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Joe Brainard's Pyjamas (The Sequel)" type="rss" xmlUrl="http://joebrainardspajamas.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Piri' Miri Muli'" type="rss" xmlUrl="http://ianckeenan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="J'S THEATER" type="rss" xmlUrl="http://jstheater.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="North of the latte line" type="rss" xmlUrl="http://northline.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Pearlblossom Highway" type="rss" xmlUrl="http://pearlblossomhighway.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Flying Saucer Poetic" type="rss" xmlUrl="http://carolinekelley.wordpress.com/feed/"/>
+    <outline text="Collin Kelley: Modern Confessional" type="rss" xmlUrl="http://collinkelley.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="War Poetry" type="rss" xmlUrl="http://war-poets.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Cleopatra's Handmaiden" type="rss" xmlUrl="http://cleopatrashandmaiden.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Melancholy Sideshow" type="rss" xmlUrl="http://melancholysideshow.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="machine language" type="rss" xmlUrl="http://jukkapekkakervinen.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="something to do - with great gratitude - otherwise than | Just another WordPress.com weblog" type="rss" xmlUrl="http://kickknees.wordpress.com/feed/"/>
+    <outline text="No Time for Poetry?" type="rss" xmlUrl="http://notimeforpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="hi there" type="rss" xmlUrl="http://www.iamhavinganicetime.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sean Kilpatrick's Anorexic Chlorine Sex Toy Museum" type="rss" xmlUrl="http://anorexicchlorinesextoymuseum.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="pantaloons:" type="rss" xmlUrl="http://pantaloons.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="AMY KING&amp;#039;S ALIAS" type="rss" xmlUrl="http://amyking.wordpress.com/feed/"/>
+    <outline text="Perhaps..." type="rss" xmlUrl="http://thisisjustmy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="No Categories" type="rss" xmlUrl="http://nocategories.net/feed/"/>
+    <outline text="Matthew G. Kirschenbaum | University of Maryland" type="rss" xmlUrl="http://mkirschenbaum.wordpress.com/feed/"/>
+    <outline text="Rauan Klassnik's The Moon's Jaw -- A Book of Prose Poetry (Poems) -- Black Ocean" type="rss" xmlUrl="http://rauanklassnik.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="pomo expo" type="rss" xmlUrl="http://beccaklaver.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lost Binder" type="rss" xmlUrl="http://lostbinder.wordpress.com/feed/"/>
+    <outline text="knottprosepo" type="rss" xmlUrl="http://knottprosepo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Modern Americans" type="rss" xmlUrl="http://modampo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Song of a Reformed Headhunter" type="rss" xmlUrl="http://jeeleong.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lyhyttavaraliike" type="rss" xmlUrl="http://lyhyttavara.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Deborah P Kolodji - Poetry Scrapbook and Random Musings" type="rss" xmlUrl="http://dkolodji.livejournal.com/data/rss"/>
+    <outline text="Speaking of Poems" type="rss" xmlUrl="http://speakingofpoems.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Myshkin2" type="rss" xmlUrl="http://myshkin2.typepad.com/mysh/index.rdf"/>
+    <outline text="messy things with words" type="rss" xmlUrl="http://messythingswithwords.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Digital Aardvarks" type="rss" xmlUrl="http://digitalaardvarks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Anecdotal Evidence" type="rss" xmlUrl="http://evidenceanecdotal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="kaymala" type="rss" xmlUrl="http://kaymala.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lewis LaCook, poet/programmer: A Boy and His Code" type="rss" xmlUrl="http://www.lewislacook.org/feed/"/>
+    <outline text="Blog - LarissaLai.com" type="rss" xmlUrl="http://www.larissalai.com/feed/"/>
+    <outline text="Laila Lalami   &amp;raquo; Blog" type="rss" xmlUrl="http://lailalalami.com/rss2"/>
+    <outline text="Lally's Alley" type="rss" xmlUrl="http://lallysalley.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Matthew Landis: Abecedarian" type="rss" xmlUrl="http://abecedarianfx.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Invisible Ear | &amp;#8220;Thou know&amp;#8217;st what to say.&amp;#8221;" type="rss" xmlUrl="http://invisibleear.wordpress.com/feed/"/>
+    <outline text="languagehat.com" type="rss" xmlUrl="http://www.languagehat.com/index.rdf"/>
+    <outline text="krystal teaches" type="rss" xmlUrl="http://krystalteaches.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="your muses closer" type="rss" xmlUrl="http://maryroselarkin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Udpost" type="rss" xmlUrl="http://zonet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Dorothea Lasky" type="rss" xmlUrl="http://dorothealasky.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Live Your Poem..." type="rss" xmlUrl="http://irenelatham.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Isola di Rifiuti" type="rss" xmlUrl="http://isola-di-rifiuti.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="(f)lawless" type="rss" xmlUrl="http://amylawless.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Gregory Laynor | arht-voiks" type="rss" xmlUrl="http://gregorylaynor.com/feed/rss/"/>
+    <outline text="HSL" type="rss" xmlUrl="http://heavensentleaf.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="seventeenfingeredpoetrybird" type="rss" xmlUrl="http://seventeenfingeredpoetrybird.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Joy Leftow's Poetry Blog" type="rss" xmlUrl="http://joyleftowsblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="textimagepoem" type="rss" xmlUrl="http://jimleftwichtextimagepoem.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Internet-Paul-Legault" type="rss" xmlUrl="http://internet-paul-legault.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="capacious hold-all" type="rss" xmlUrl="http://capacioushold-all.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ecce Mulier" type="rss" xmlUrl="http://eccemulier.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Saint Nobody" type="rss" xmlUrl="http://saint-nobody.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="michael leong&amp;#039;s poetry blog | ^^news, reviews, interviews, &amp;amp; musings^^" type="rss" xmlUrl="http://michaelleong.wordpress.com/feed/"/>
+    <outline text="DayBook/NightBook I" type="rss" xmlUrl="http://thenightbook.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Mrs. Maybe's Seance" type="rss" xmlUrl="http://mrsmaybeseance.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Miriam Levine" type="rss" xmlUrl="http://miriamlevine.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="White Chicken Blog of Poetry and Poetics" type="rss" xmlUrl="http://www.whitechicken.com/whitechicken_blog/rss.xml"/>
+    <outline text="Chinglish" type="rss" xmlUrl="http://chinglish-renee.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="african poetry review (usa)" type="rss" xmlUrl="http://african-poetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="adalimon" type="rss" xmlUrl="http://adalimon.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="radicaldruid.com | words and music by john litzenberg" type="rss" xmlUrl="http://radicaldruid.com/?feed=rss2"/>
+    <outline text="reb livingston" type="rss" xmlUrl="http://reblivingston.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poesy galore" type="rss" xmlUrl="http://poesygalore.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="wrd.wthiin.woord" type="rss" xmlUrl="http://wordwithinword.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="After Long Busyness: A Poetry Blog | &amp;#8220;Every day I did not spend in solitude was wasted.&amp;#8221;" type="rss" xmlUrl="http://ericedits.wordpress.com/feed/"/>
+    <outline text="Blogalicious" type="rss" xmlUrl="http://dianelockward.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="wordstrumpet" type="rss" xmlUrl="http://wordstrumpet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Peaches and Bats' Blague" type="rss" xmlUrl="http://peachbats.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Electio Editions" type="rss" xmlUrl="http://electioeditions.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Myself the only Kangaroo among the Beauty" type="rss" xmlUrl="http://sandylonghorn.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="manuel paullopez" type="rss" xmlUrl="http://manuelpaullopez.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Really Bad Movies" type="rss" xmlUrl="http://reallybadmovies.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tony Lopez" type="rss" xmlUrl="http://t-lopez.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Windows Toward the World | Facing a Lonely West" type="rss" xmlUrl="http://helenl.wordpress.com/feed/"/>
+    <outline text="Oh, Didn't He Ramble..." type="rss" xmlUrl="http://didntheramble.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Valerie Loveland" type="rss" xmlUrl="http://valerieloveland.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Denise Low Postings" type="rss" xmlUrl="http://deniselow.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="MOUNDZ" type="rss" xmlUrl="http://moundz.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Enchilada's Salon" type="rss" xmlUrl="http://enchiladasblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="__ Catch / Confetti - Patrick Lucy, Poetry, Art, &amp; Philadelphia " type="rss" xmlUrl="http://www.catchconfetti.com/rss"/>
+    <outline text="Poetry: Christopher Luna in Ghost Town, USA" type="rss" xmlUrl="http://christopherluna-poetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Dialectical Migrations" type="rss" xmlUrl="http://sherylluna.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Voices in Utter Dark" type="rss" xmlUrl="http://fluong.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Apples on Fire" type="rss" xmlUrl="http://natalielyalin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Diary Review" type="rss" xmlUrl="http://thediaryjunction.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Binding Wor(l)ds Together" type="rss" xmlUrl="http://wordbinder.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="BONNIE MacALLISTER" type="rss" xmlUrl="http://bonnie-macallister.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Brief Epigrams" type="rss" xmlUrl="http://briefepigrams.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Step At A Time" type="rss" xmlUrl="http://halldor2.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Surroundings" type="rss" xmlUrl="http://robmack.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="that-unsound" type="rss" xmlUrl="http://that-unsound.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jill Magi's Blog" type="rss" xmlUrl="http://jillmagisblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="marstravolta" type="rss" xmlUrl="http://marstravolta.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Nothing found for  Index Cfm?webid=12" type="rss" xmlUrl="http://www.taylormali.com/feed/"/>
+    <outline text="Rupert Mallin" type="rss" xmlUrl="http://mallin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Feel Good Lost | Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.  &amp;#8211; G. K. Chesterton" type="rss" xmlUrl="http://rachelmallino.wordpress.com/feed/"/>
+    <outline text="Tricoteuse" type="rss" xmlUrl="http://kendralovely.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="bodies in trouble" type="rss" xmlUrl="http://petermaloney.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jotter Notes | A blog by Dave Maney" type="rss" xmlUrl="http://jotternotes.wordpress.com/feed/"/>
+    <outline text="Sharanya Manivannan" type="rss" xmlUrl="http://sharanyamanivannan.wordpress.com/feed/"/>
+    <outline text="The Nondisenchanted Foreshore" type="rss" xmlUrl="http://dougfinmanson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="JENNIFER MANZANO." type="rss" xmlUrl="http://jennifermanzano.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Irish Poetry" type="rss" xmlUrl="http://irishpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Djelloul Marbrook" type="rss" xmlUrl="http://www.djelloulmarbrook.com/rss.xml"/>
+    <outline text="Bob Marcacci" type="rss" xmlUrl="http://marcacci.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Red Thread(s)" type="rss" xmlUrl="http://redthreads.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry Bear" type="rss" xmlUrl="http://justinanselmarks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Pathologos" type="rss" xmlUrl="http://pathologos.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Post Language" type="rss" xmlUrl="http://postlanguage.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Rogue Embryo | a.k.a. Camille Martin: a blog about poetry, collage, photography, whatnot" type="rss" xmlUrl="http://rogueembryo.com/feed/"/>
+    <outline text="Chico Martin's ALLEY BEAT" type="rss" xmlUrl="http://alleybeat.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="lumpy onion monophony" type="rss" xmlUrl="http://colinmart.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="My custom dress shirts blog &amp;#8211; The shirt to end all shirts My custom dress shirts blog" type="rss" xmlUrl="http://mygorgeoussomewhere.org/feed/"/>
+    <outline text=" | UNDER CONSTRUCTION&amp;#8230;" type="rss" xmlUrl="http://michaeljamesmartin.wordpress.com/feed/"/>
+    <outline text="and to think i saw it on floyd terrace" type="rss" xmlUrl="http://timothymartin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LETRAS DE CACTUS" type="rss" xmlUrl="http://deljuan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Other Internents" type="rss" xmlUrl="http://otherinternents.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Mathematical Poetry" type="rss" xmlUrl="http://mathematicalpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Early Childhood Brain Insights" type="rss" xmlUrl="http://slantedshanty.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="People without Corners" type="rss" xmlUrl="http://cyelzamathews.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetecstasy" type="rss" xmlUrl="http://poetecstasy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Clay Matthews" type="rss" xmlUrl="http://claymatthews.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="IMproPRieTies" type="rss" xmlUrl="http://interimtom.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Peeping Mot" type="rss" xmlUrl="http://www.peepingmot.com/feeds/posts/default?alt=rss"/>
+    <outline text="chap*books" type="rss" xmlUrl="http://planbchaps.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Delirium's Library" type="rss" xmlUrl="http://deliriumslibrary.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="&amp;#161;Bemsha SWING!" type="rss" xmlUrl="http://jonathanmayhew.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="vampire on the moon" type="rss" xmlUrl="http://vampireonthemoon.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="McCarra / Poetry" type="rss" xmlUrl="http://mccarra--poetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="New American Writing and Drawing" type="rss" xmlUrl="http://newamericanwriting.wordpress.com/feed/"/>
+    <outline text="ReadySteadyBook - for literature..." type="rss" xmlUrl="http://www.readysteadybook.com_/Feed.aspx?blog"/>
+    <outline text=" Aaron McCollough" type="rss" xmlUrl="http://aaronmccollough.com/blog/?feed=rss2"/>
+    <outline text="Black Antlers" type="rss" xmlUrl="http://twelveyearoldwithamustache.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Resisting Poetry" type="rss" xmlUrl="http://wwwresistingpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry in Progress" type="rss" xmlUrl="http://sorlily.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lives of the Spiders" type="rss" xmlUrl="http://livesofthespiders.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Black Telephone" type="rss" xmlUrl="http://theblacktelephone.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Peony Moon | A contemporary poetry blog" type="rss" xmlUrl="http://peonymoon.wordpress.com/feed/"/>
+    <outline text="rob mclennan's blog" type="rss" xmlUrl="http://robmclennan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="theamericanscene" type="rss" xmlUrl="http://www.theamericanscene.net/feed/"/>
+    <outline text="uncomplicatedly" type="rss" xmlUrl="http://uncomplicatedly.wordpress.com/feed/"/>
+    <outline text="Polyolbion" type="rss" xmlUrl="http://polyolbion.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Alluringly Short" type="rss" xmlUrl="http://alluringlyshort.com/feed/"/>
+    <outline text="Polyolbion" type="rss" xmlUrl="http://polyolbion.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Virgin Formica" type="rss" xmlUrl="http://virginformica.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Green Integer Blog" type="rss" xmlUrl="http://greeninteger.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Behind the Lines: Poetry, War, &amp;amp; Peacemaking" type="rss" xmlUrl="http://behindthelinespoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Susan Laughter Meyers" type="rss" xmlUrl="http://susanmeyers.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Recently Banned Literature" type="rss" xmlUrl="http://recently-banned-literature.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WordPress.com &amp;#8212; Get a Free Blog Here" type="rss" xmlUrl="http://en.blog.wordpress.com/feed/"/>
+    <outline text="Delicious Ginger | musings on poetry, herbalism, permaculture, and other curiosities" type="rss" xmlUrl="http://deliciousginger.wordpress.com/feed/"/>
+    <outline text="New Jersey as an Impossible Object" type="rss" xmlUrl="http://impossibleobject.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Notebooks, Second Draft | Edward Williams" type="rss" xmlUrl="http://lloydmintern.wordpress.com/feed/"/>
+    <outline text="Best Nightmare You Get! &amp;rsaquo; " type="rss" xmlUrl="http://bestnightmareyouget.com/?feed=rss2"/>
+    <outline text="Bad NDNs" type="rss" xmlUrl="http://whenturtlesfly.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" | Poet, Writer, Transformative Language Artist &amp;amp; Yoga Teacher" type="rss" xmlUrl="http://carynmirriamgoldberg.com/feed/"/>
+    <outline text="Plainfeather's Blog" type="rss" xmlUrl="http://plainfeather.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="This Space" type="rss" xmlUrl="http://this-space.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blandiloquent" type="rss" xmlUrl="http://rmutts.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Same Worlds, Other Worlds" type="rss" xmlUrl="http://www.modymonica.com/feeds/posts/default?alt=rss"/>
+    <outline text="{LIME TREE}" type="rss" xmlUrl="http://lime-tree.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Supple Amounts" type="rss" xmlUrl="http://suppleamounts.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="spicysoda" type="rss" xmlUrl="http://spicysoda.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="harvey molloy: notebook" type="rss" xmlUrl="http://harveymolloy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Nesting Ground" type="rss" xmlUrl="http://vmontes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="School Quotes Kids" type="rss" xmlUrl="http://mazielouisemontgomery.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="E D I B L E D E T R I T U S" type="rss" xmlUrl="http://davidmoolten.wordpress.com/feed/"/>
+    <outline text="Vox Populism: | Seeing the World Through Poem-Coloured Glasses" type="rss" xmlUrl="http://voxpopulism.wordpress.com/feed/"/>
+    <outline text="lost republics" type="rss" xmlUrl="http://alanjudemoore.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ecstatic Exchange" type="rss" xmlUrl="http://ecstaticxchange.com/feed/"/>
+    <outline text="WordPress.com - Get a Free Blog Here" type="rss" xmlUrl="http://blog.wordpress.com/feed/"/>
+    <outline text="taichi heartwork" type="rss" xmlUrl="http://taichiheartwork.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Trainwreck  Union" type="rss" xmlUrl="http://blog.trainwreckunion.com/feeds/posts/default?alt=rss"/>
+    <outline text="Travis Morgan" type="rss" xmlUrl="http://feeds.feedburner.com/TravisMorgan"/>
+    <outline text="Debrah Morkun, Poet" type="rss" xmlUrl="http://www.debrahmorkun.com/feeds/posts/default?alt=rss"/>
+    <outline text="David Morley, University of Warwick" type="rss" xmlUrl="http://blogs.warwick.ac.uk/morleyd?rss=rss_2_0"/>
+    <outline text="the wanting is less interesting" type="rss" xmlUrl="http://mannemo.tumblr.com/rss"/>
+    <outline text="Tracie's Web" type="rss" xmlUrl="http://traciemorris.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Notes and Images" type="rss" xmlUrl="http://stephenmorrisseyblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Art Part | A blog about photographs and words" type="rss" xmlUrl="http://theartpart.jonathanmorse.net/feed/"/>
+    <outline text="Harlequin Knights" type="rss" xmlUrl="http://harlequinknights.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="typing space" type="rss" xmlUrl="http://typingspace.wordpress.com/feed/"/>
+    <outline text="For The Birds" type="rss" xmlUrl="http://imforthebirds.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="FREELANCE RIGHTS" type="rss" xmlUrl="http://freelancerights.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="coffeehousejunkie" type="rss" xmlUrl="http://coffeehousejunkie.tumblr.com/rss"/>
+    <outline text="Unstable Euphony" type="rss" xmlUrl="http://unstableeuphony.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Snug Island" type="rss" xmlUrl="http://snugisland.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="p  l  a  i  n  e  r" type="rss" xmlUrl="http://brtom.typepad.com/one/index.rdf"/>
+    <outline text="B O C A" type="rss" xmlUrl="http://pistola32.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poetry | genemyers.com" type="rss" xmlUrl="http://genemyers.wordpress.com/feed/"/>
+    <outline text="a sad day for sad birds" type="rss" xmlUrl="http://asaddayforsadbirds.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="critique manque" type="rss" xmlUrl="http://www.critiquemanque.org/feeds/posts/default?alt=rss"/>
+    <outline text="fewer &amp; further" type="rss" xmlUrl="http://fewfur.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Drew Myron - Off the Page" type="rss" xmlUrl="http://www.drewmyron.com/off-the-page/rss.xml"/>
+    <outline text="Under A Warm Green Linden" type="rss" xmlUrl="http://nelsonpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="afterlights" type="rss" xmlUrl="http://afterlights.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="DanielNester.com" type="rss" xmlUrl="http://danielnester.com/feed/"/>
+    <outline text="SEWING MEMORY" type="rss" xmlUrl="http://fanettelbeck.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="NEWSgrist - where spin is art" type="rss" xmlUrl="http://newsgrist.typepad.com/underbelly/index.rdf"/>
+    <outline text="Blog&amp;nbsp;|" type="rss" xmlUrl="http://maudnewton.com/feed/"/>
+    <outline text="illuminated meat" type="rss" xmlUrl="http://illuminatedmeat.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Andy Nicholson's Blog" type="rss" xmlUrl="http://andynicholson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="HeatStrings" type="rss" xmlUrl="http://heatstrings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Making Light" type="rss" xmlUrl="http://nielsenhayden.com/makinglight/index.rdf"/>
+    <outline text="kompassipyorii" type="rss" xmlUrl="http://kompassipyorii.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="transversalinflections" type="rss" xmlUrl="http://transversalinflections.wordpress.com/feed/"/>
+    <outline text="norddahl" type="rss" xmlUrl="http://norddahl.org/english/feed/"/>
+    <outline text="I am not who I think I am or is I whom?" type="rss" xmlUrl="http://carolnovack.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Thirteen Blackbirds Poetry" type="rss" xmlUrl="http://edwardnudelman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Another Lost Shark | the poems and other words of Graham Nunn" type="rss" xmlUrl="http://anotherlostshark.com/feed/"/>
+    <outline text="backyard disciples and one mean deus ex machina" type="rss" xmlUrl="http://misswanda.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Seer of ghosts &amp;amp; weaver of stories" type="rss" xmlUrl="http://ajodasso.livejournal.com/data/rss"/>
+    <outline text="The Dishwasher's Tears" type="rss" xmlUrl="http://thedishwasherstears.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="eke na egwurugwu" type="rss" xmlUrl="http://obododimma-oha.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="gringocarioca" type="rss" xmlUrl="http://gringocarioca.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="OlsonNow" type="rss" xmlUrl="http://olsonnow.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tillalala Chronicles" type="rss" xmlUrl="http://tillalala.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Lutheran Surrealism" type="rss" xmlUrl="http://lutheransurrealism.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A window Within Myself" type="rss" xmlUrl="http://iamnasra.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Bougainvillea Hideaway" type="rss" xmlUrl="http://lilteyedrhombus.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poet Mom" type="rss" xmlUrl="http://poetmom.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ukulele Feedback" type="rss" xmlUrl="http://bluepressbooks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="alexis orgera" type="rss" xmlUrl="http://alexisorgera.com/feed/"/>
+    <outline text="the amplified bard" type="rss" xmlUrl="http://theamplifiedbard.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Orwell Diaries 1938-1942 | George Orwell&amp;#039;s domestic and political diary entries, posted 70 years to the day after they were written" type="rss" xmlUrl="http://orwelldiaries.wordpress.com/feed/"/>
+    <outline text="arch.memory" type="rss" xmlUrl="http://archmemory.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poesia - Corriere Della Sera" type="rss" xmlUrl="http://poesia.corriere.it/feed/"/>
+    <outline text="damn the caesars" type="rss" xmlUrl="http://damnthecaesars.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Musings" type="rss" xmlUrl="http://scottowensmusings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Capitol Cougar" type="rss" xmlUrl="http://capitolcougar.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Iron Caisson" type="rss" xmlUrl="http://daniellepafunda.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Makura no Soshi" type="rss" xmlUrl="http://makura-no-soshi.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="mischievoice" type="rss" xmlUrl="http://mischievoice.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Strong Verse" type="rss" xmlUrl="http://strongverse.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Shann Palmer says" type="rss" xmlUrl="http://shannpalmer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Brian Palmu" type="rss" xmlUrl="http://brianpalmu.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Chad Parenteau: Poet For Hire" type="rss" xmlUrl="http://chadparenteaupoetforhire.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tossing It In Tucson" type="rss" xmlUrl="http://mrparkers.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Venepoetics" type="rss" xmlUrl="http://venepoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="davidepatton" type="rss" xmlUrl="http://davidepatton.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Marek naja Marek" type="rss" xmlUrl="http://marekpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Robert Peake" type="rss" xmlUrl="http://feeds.feedburner.com/peakepoetics"/>
+    <outline text="Tarpaulin Sky Reviews &amp;amp; Interviews" type="rss" xmlUrl="http://tsky-reviews.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="What Birds Give Up" type="rss" xmlUrl="http://feeds.feedburner.com/WhatBirdsGiveUp"/>
+    <outline text="The Virtual World" type="rss" xmlUrl="http://thevirtualworld.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Craig Santos Perez" type="rss" xmlUrl="http://craigsantosperez.wordpress.com/feed/"/>
+    <outline text="ysletapoeta" type="rss" xmlUrl="http://ysletapoeta.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Neverland Revisited" type="rss" xmlUrl="http://laurenperez.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="match stick box" type="rss" xmlUrl="http://robertandrewperez.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Artopia  |  John Perreault&amp;#039;s art diary" type="rss" xmlUrl="http://feeds.feedburner.com/artsjournal/OmRC"/>
+    <outline text="Pyramid News Scheme" type="rss" xmlUrl="http://www.pyramidnewsscheme.com/feed/"/>
+    <outline text="grapez" type="rss" xmlUrl="http://grapez.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Carol Peters: 2004-2012" type="rss" xmlUrl="http://carolpeters.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Wordlustitude" type="rss" xmlUrl="http://wordlust.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="POEMOCRACY" type="rss" xmlUrl="http://poemocracy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Mappemunde" type="rss" xmlUrl="http://mappemunde.typepad.com/mappemunde/index.rdf"/>
+    <outline text="Edward G Pettit - Ed &amp; Edgar" type="rss" xmlUrl="http://www.edwardgpettit.com/ed-and-edgar/rss.xml"/>
+    <outline text="Michael Peverett" type="rss" xmlUrl="http://michaelpeverett.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Collectages" type="rss" xmlUrl="http://nicolepeyrafitte.com/Collectages"/>
+    <outline text="OUTLASTING MOTHS" type="rss" xmlUrl="http://rogueprose.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tom Phillips" type="rss" xmlUrl="http://tomphillipsinfo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="You Must Write As If Your Life Depended On It" type="rss" xmlUrl="http://feeds.feedburner.com/YouMustWriteAsIfYourLifeDependedOnIt"/>
+    <outline text="michelle naka pierce : no use in a centre" type="rss" xmlUrl="http://michellenakapierce.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Peter, in Search of Pan" type="rss" xmlUrl="http://theamazingjourney.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CROWN YOURSELF THEN KILL YOURSELF" type="rss" xmlUrl="http://www.impersonalelectroniccommunication.com/feeds/posts/default?alt=rss"/>
+    <outline text="fait accompli" type="rss" xmlUrl="http://nickpiombino.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" Humanyms" type="rss" xmlUrl="http://www.pagehalffull.com/humanyms/feed/"/>
+    <outline text="Buggeryville" type="rss" xmlUrl="http://buggeryville.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sylvia Plath Info" type="rss" xmlUrl="http://sylviaplathinfo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Untitled" type="rss" xmlUrl="http://debpoe.tumblr.com/rss"/>
+    <outline text="hideously, she said" type="rss" xmlUrl="http://de-cidered.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="JJ Pollet | Arts &amp;amp; Literature" type="rss" xmlUrl="http://jjpollet.wordpress.com/feed/"/>
+    <outline text="We liked it but not quite enough" type="rss" xmlUrl="http://welikeditbutnotquiteenough.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A View to a Kill" type="rss" xmlUrl="http://dapowell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="davey dreamnation | seething since 2002" type="rss" xmlUrl="http://daveydreamnation.com/feed/"/>
+    <outline text="A Dark Feathered Art | Joanna Preston: Tasmanaut Poet and Writer" type="rss" xmlUrl="http://jopre.wordpress.com/feed/"/>
+    <outline text="TrancePoetics | created by Kristin Prevallet" type="rss" xmlUrl="http://trancepoetics.com/feed/"/>
+    <outline text="gracious economies and corrugated shadows" type="rss" xmlUrl="http://graciouseconomiesandcorrugatedshadows.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Five Million Copies Project" type="rss" xmlUrl="http://fivemilcopiesproj.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Wooden Spoon" type="rss" xmlUrl="http://danpritch.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WordPress.com &amp;#8212; Get a Free Blog Here" type="rss" xmlUrl="http://en.blog.wordpress.com/feed/"/>
+    <outline text="Writing The Messianic" type="rss" xmlUrl="http://writingthemessianic.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="FoggyGates -A Bookish Blog" type="rss" xmlUrl="http://foggygates.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Notes on (the Writing) Life" type="rss" xmlUrl="http://jaynepupek.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="jellybean weirdo with electric snake fang" type="rss" xmlUrl="http://jellybeanweirdo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LEMON HOUND" type="rss" xmlUrl="http://lemonhound.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Yuckelbel's Canon" type="rss" xmlUrl="http://chowchainthoughts.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="confused of calcutta - a blog about information" type="rss" xmlUrl="http://confusedofcalcutta.com/feed/"/>
+    <outline text="SEE WITH EYES SHUT" type="rss" xmlUrl="http://www.chamkorani.com/feeds/posts/default?alt=rss"/>
+    <outline text="sonnets at 4 a.m." type="rss" xmlUrl="http://sonnetsat4am.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="actuspurunen" type="rss" xmlUrl="http://actuspurunen.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="sam of the ten thousand things" type="rss" xmlUrl="http://samofthetenthousandthings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CultureCat | Rhetoric and Feminism" type="rss" xmlUrl="http://culturecat.net/node/feed"/>
+    <outline text="Jai Arun Ravine" type="rss" xmlUrl="http://jaiarunravine.wordpress.com/feed/"/>
+    <outline text="commutiny | 537neon. HUMAN visits NATURE." type="rss" xmlUrl="http://commutiny.wordpress.com/feed/"/>
+    <outline text="NOTES" type="rss" xmlUrl="http://tomraworth.com/notes/?feed=rss2"/>
+    <outline text="THIS IS NOT POETRY" type="rss" xmlUrl="http://this-is-not-poetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="JC Reilly:  Poeta Venum" type="rss" xmlUrl="http://jcreilly.wordpress.com/feed/"/>
+    <outline text="reimer writes | writer | editor | designer | blogger" type="rss" xmlUrl="http://reimerwritesblog.com/feed/"/>
+    <outline text="ariana reines" type="rss" xmlUrl="http://arianareines.tumblr.com/rss"/>
+    <outline text="Barbara Jane Reyes | poeta y diwata" type="rss" xmlUrl="http://bjanepr.wordpress.com/feed/"/>
+    <outline text="THE ALCHEMIST'S KITCHEN" type="rss" xmlUrl="http://thealchemistskitchen.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tad's  Night With the Language Thieves Blog" type="rss" xmlUrl="http://opusforty.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Chuck Richardson" type="rss" xmlUrl="http://chuckrichardson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Winged Ink" type="rss" xmlUrl="http://wingedink.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="RIDL.COM | Jack Ridl&amp;#8217;s workshops, readings, books, and friends" type="rss" xmlUrl="http://ridl.wordpress.com/feed/"/>
+    <outline text="Arcadim in Arcadia" type="rss" xmlUrl="http://www.paulrigolle.be/arcadim/rss.xml"/>
+    <outline text="In Place of Chairs" type="rss" xmlUrl="http://inplaceofchairs.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Little Epic Against Oblivion" type="rss" xmlUrl="http://againstoblivion.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Publishing Genius Blog" type="rss" xmlUrl="http://publishinggenius.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="sophie robinson" type="rss" xmlUrl="http://sophierobinson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="&quot;Made by Katrina&quot;" type="rss" xmlUrl="http://katrinarodabaugh.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Linda Rodriguez Writes" type="rss" xmlUrl="http://lindarodriguezwrites.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="STEVE ROGGENBUCK" type="rss" xmlUrl="http://www.steveroggenbuck.com/feeds/posts/default?alt=rss"/>
+    <outline text="My Robot Is Pregnant" type="rss" xmlUrl="http://myrobotispregnant.com/feed/"/>
+    <outline text="Ciao Poetry" type="rss" xmlUrl="http://ciaopoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Rik Files" type="rss" xmlUrl="http://rikfiles.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="RUNNING BRUSH : | a weblog, a zuihitsu, a miscellany, an improvisatory spark of synapses in this ephemeral window of bits, and code, and light . . ." type="rss" xmlUrl="http://runningbrush.wordpress.com/feed/"/>
+    <outline text="Eric Rosenfield.com" type="rss" xmlUrl="http://feeds.feedburner.com/EricRosenfield"/>
+    <outline text="Passions and Provocations" type="rss" xmlUrl="http://pamrosenthal.com/blog/feed/"/>
+    <outline text="The Imaginary Museum" type="rss" xmlUrl="http://mairangibay.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="My Blog | My Wordpress Blog" type="rss" xmlUrl="http://elizabethross.ca/blog/feed/"/>
+    <outline text="Bloggamooga" type="rss" xmlUrl="http://bloggamooga.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="tando" type="rss" xmlUrl="http://tando.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poems and Poetics" type="rss" xmlUrl="http://poemsandpoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="stephenrowe.ca" type="rss" xmlUrl="http://stephenrowe.ca/feed/"/>
+    <outline text="The Desert City" type="rss" xmlUrl="http://desertcity.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jacob Russell's Barking Dog" type="rss" xmlUrl="http://jacobrussellsbarkingdog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Heraclitean Fire &amp;raquo; Harry Rutherford&amp;#039;s Blog" type="rss" xmlUrl="http://heracliteanfire.net/feed/"/>
+    <outline text="Miriam&amp;#039;s Well: Poetry, Land Art, and Beyond | Santa Fe literary scene, poetry, land art, New Mexico" type="rss" xmlUrl="http://miriamswell.wordpress.com/feed/"/>
+    <outline text="Sense &amp;amp; Sensuality" type="rss" xmlUrl="http://sarojinisahoo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="BOTH BOTH" type="rss" xmlUrl="http://bothbothseries.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="espresso bongo" type="rss" xmlUrl="http://espressobongo.typepad.com/espresso-bongo/index.rdf"/>
+    <outline text="Rhodingeedaddee" type="rss" xmlUrl="http://bajsalchert.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Whirl" type="rss" xmlUrl="http://christophersalerno.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Michael Salinger" type="rss" xmlUrl="http://michaelsalinger.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poetfranksamperi" type="rss" xmlUrl="http://poetfranksamperi.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Modern Kicks" type="rss" xmlUrl="http://modernkicks.typepad.com/modern_kicks/index.rdf"/>
+    <outline text="La la La la La" type="rss" xmlUrl="http://selahannsaterstrom.tumblr.com/rss"/>
+    <outline text="Public Opinion" type="rss" xmlUrl="http://www.sauer-thompson.com/index.xml"/>
+    <outline text="Agnes Eva Savich&amp;#039;s Blog | Author of The Watcher (Poems)" type="rss" xmlUrl="http://agnesevasavich.wordpress.com/feed/"/>
+    <outline text="Me~Tronome" type="rss" xmlUrl="http://larrysawyer.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="visible language of a culture" type="rss" xmlUrl="http://streetsofamsterdam.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THE UNRULY SERVANT" type="rss" xmlUrl="http://michaelschiavo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CUNEIFORM PRESS" type="rss" xmlUrl="http://cuneiformpress.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ALONE ON A BOREAL STAGE" type="rss" xmlUrl="http://birdschmidt.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Christopher-Schmidt.com" type="rss" xmlUrl="http://christopher-schmidt.com/bios/rss.xml"/>
+    <outline text="The Lovely Archives" type="rss" xmlUrl="http://lovelyarc.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A   P e e k   o f   R e a c h" type="rss" xmlUrl="http://morganlucasschuldt.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tinfish Editor's Blog" type="rss" xmlUrl="http://tinfisheditor.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="!poi4&amp;#039;:;!poe&amp;#039;!&amp;#039;;;!mbassy::!oip3&amp;#039;:: | poembassy bombing: the blog of eric goddard-scovel" type="rss" xmlUrl="http://wlal.wordpress.com/feed/"/>
+    <outline text="Culture Industry" type="rss" xmlUrl="http://kulturindustrie.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Glit Lit | " type="rss" xmlUrl="http://almostdorothy.wordpress.com/feed/"/>
+    <outline text="Say Something Wonderful" type="rss" xmlUrl="http://saysomethingwonderful.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Very Like A Whale" type="rss" xmlUrl="http://verylikeawhale.wordpress.com/feed/"/>
+    <outline text="Say Something Wonderful" type="rss" xmlUrl="http://saysomethingwonderful.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The New Modernism | Japanese Modernist &amp;amp; Avant-Garde Poetry, Translations, Explorations" type="rss" xmlUrl="http://ericselland.wordpress.com/feed/"/>
+    <outline text="WordPress.com &amp;#8212; Get a Free Blog Here" type="rss" xmlUrl="http://en.blog.wordpress.com/feed/"/>
+    <outline text="voxygen.net | She-blog" type="rss" xmlUrl="http://voxygen.net/feed/"/>
+    <outline text="Anindita Sengupta | Poetry. Gender. New Media." type="rss" xmlUrl="http://aninditasengupta.com/feed/"/>
+    <outline text="Matrixspace Blog | The Arnold Schwartzenegger of American Poetry" type="rss" xmlUrl="http://matrixspace.wordpress.com/feed/"/>
+    <outline text="Girish Shambu" type="rss" xmlUrl="http://girishshambu.com/feed/"/>
+    <outline text="Squandermania and other foibles" type="rss" xmlUrl="http://donshare.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" The Pinocchio Theory" type="rss" xmlUrl="http://www.shaviro.com/Blog/?feed=rss2"/>
+    <outline text="Lots and lots of neat" type="rss" xmlUrl="http://lotsandlotsofneat.typepad.com/lots_and_lots_of_neat/index.rdf"/>
+    <outline text="PROSOPOPOEIA" type="rss" xmlUrl="http://feliciashenker.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Pages" type="rss" xmlUrl="http://robertsheppard.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Eastside View" type="rss" xmlUrl="http://cshere.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Late Late Capital Bootleg Sessions" type="rss" xmlUrl="http://franksherlock.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Marama:omoopart5" type="rss" xmlUrl="http://omoopart5.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="carolee bennett sherwood | CAROLEE BENNETT SHERWOOD" type="rss" xmlUrl="http://caroleesherwood.wordpress.com/feed/"/>
+    <outline text="andrewjshields" type="rss" xmlUrl="http://andrewjshields.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="RezBlog" type="rss" xmlUrl="http://rezblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Evie Shockleys Blog | Red Room" type="rss" xmlUrl="http://redroom.com/member/evie-shockley/blog/rss.xml"/>
+    <outline text="Ahhhhh, whiskers" type="rss" xmlUrl="http://kimgeklin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Kendra Steiner Editions | publishers and champions of contemporary poetry from San Antonio, Texas" type="rss" xmlUrl="http://kendrasteinereditions.wordpress.com/feed/"/>
+    <outline text="Black Coffee &amp;amp; A Glass of Water" type="rss" xmlUrl="http://johnsiddique.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Jeffrey Side" type="rss" xmlUrl="http://jeffrey-side.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ReVeLeR @ eYeLeVeL" type="rss" xmlUrl="http://paulsiegell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blue Positive" type="rss" xmlUrl="http://bluepositive.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Daniel Silliman" type="rss" xmlUrl="http://danielsilliman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="John Oliver Simon&amp;#039;s Blog | Granddaughter poems and more" type="rss" xmlUrl="http://johnoliversimon.com/feed/"/>
+    <outline text="Living Above the Frost Line" type="rss" xmlUrl="http://nancysimpson.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="radio contact" type="rss" xmlUrl="http://nashi.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="My 3,000 Loving Arms" type="rss" xmlUrl="http://my3000lovingarms.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="radio contact" type="rss" xmlUrl="http://nashi.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Secondary Sound" type="rss" xmlUrl="http://secondarysound.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Art of Fiction" type="rss" xmlUrl="http://artoffiction.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Mythology and Milk" type="rss" xmlUrl="http://mythology-and-milk.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="NEVER MIND THE BEASTS" type="rss" xmlUrl="http://marcusslease.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the rain in my purse" type="rss" xmlUrl="http://theraininmypurse.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Barbara's Bleeuugh!" type="rss" xmlUrl="http://intendednot2b.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Zombie 'Pataphysics" type="rss" xmlUrl="http://zombiepataphysics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="La Lizi Dice" type="rss" xmlUrl="http://lalizidice.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="looktouchblog" type="rss" xmlUrl="http://looktouch.wordpress.com/feed/"/>
+    <outline text="Bottom Dog Press/ Larry Smith" type="rss" xmlUrl="http://dogger-larry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Histories and Theories of Intermedia" type="rss" xmlUrl="http://umintermediai501.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="GhostBrain" type="rss" xmlUrl="http://ghostbrain.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Night After Night" type="rss" xmlUrl="http://www.nightafternight.com/night_after_night/index.rdf"/>
+    <outline text="jhenrychunko" type="rss" xmlUrl="http://jhenrychunko.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poems, mostly metrical, and rants and raves on poets, poetry, and the po-biz (with 8-string stuff) &amp;#8212; Mike Snider&amp;#8217;s Formal Blog" type="rss" xmlUrl="http://mikesnider.org/formalblog/?feed=rss2"/>
+    <outline text="swoonrocket" type="rss" xmlUrl="http://swoonrocket.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Pax Americana | Culture, Politics, and Ineffectual Debate" type="rss" xmlUrl="http://paxamericana.wordpress.com/feed/"/>
+    <outline text="Blog | Itch Away" type="rss" xmlUrl="http://itchaway.net/feed/"/>
+    <outline text="Nobody's Flux" type="rss" xmlUrl="http://nobodypress.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" Brian Spears" type="rss" xmlUrl="http://brianspears.wordpress.com/feed/"/>
+    <outline text="&lt;The Nacreous Oughts&gt;" type="rss" xmlUrl="http://springtail.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="officina patosq" type="rss" xmlUrl="http://officinapatosq.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sheila Squillante | Poet and Essayist" type="rss" xmlUrl="http://allthingsedible.wordpress.com/feed/"/>
+    <outline text="Ivebeenreadinglately" type="rss" xmlUrl="http://ivebeenreadinglately.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Hybrids" type="rss" xmlUrl="http://hybrids11.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="WordPress.com &amp;#8212; Get a Free Blog Here" type="rss" xmlUrl="http://en.blog.wordpress.com/feed/"/>
+    <outline text="http://mildredsumbrella.blogspot.com/feeds/posts/default?alt=rss" type="rss" xmlUrl="http://mildredsumbrella.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poet In New York" type="rss" xmlUrl="http://markstatman.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poetproph" type="rss" xmlUrl="http://poetproph.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Free Space Comix: the blog" type="rss" xmlUrl="http://www.arras.net/fscIII/?feed=rss2"/>
+    <outline text="California Writer" type="rss" xmlUrl="http://californiawriter.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="mythical creatures" type="rss" xmlUrl="http://leighstein.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LWC/LWK" type="rss" xmlUrl="http://i-caved.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Raw Dawg Buffalo" type="rss" xmlUrl="http://rawdawgb.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Five Branch Tree" type="rss" xmlUrl="http://fivebranchtree.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Beyond The Beyond - | Wired.com" type="rss" xmlUrl="http://www.wired.com/beyond_the_beyond/feed/"/>
+    <outline text="Rogue Writing" type="rss" xmlUrl="http://roguewriting.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Merely Draff" type="rss" xmlUrl="http://merelydraff.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry Comics" type="rss" xmlUrl="http://www.poetrycomics.com/feeds/posts/default?alt=rss"/>
+    <outline text="Busily Seeking . . . Continual Change" type="rss" xmlUrl="http://jgirl3.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Books - Quotes and Sayings" type="rss" xmlUrl="http://storms.typepad.com/booklust/index.rdf"/>
+    <outline text="Sorry Nature" type="rss" xmlUrl="http://sorrynature.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Zoe Strauss" type="rss" xmlUrl="http://zoestrauss.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Why Not Blog?" type="rss" xmlUrl="http://porquoipas.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="E&amp;#183;ratio" type="rss" xmlUrl="http://eratio.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Piecemeal Poet(ry)" type="rss" xmlUrl="http://jeffstumpo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Elsewhere" type="rss" xmlUrl="http://garysullivan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Overloading the Machine" type="rss" xmlUrl="http://feeds.feedburner.com/wjsullivan"/>
+    <outline text="Yes, Starlings!  Yes!" type="rss" xmlUrl="http://mathiassvalina.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="plurabella!" type="rss" xmlUrl="http://boraplurabelle.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Spaniard In The Works" type="rss" xmlUrl="http://spaniardintheworks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Eyewear" type="rss" xmlUrl="http://toddswift.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Elizabeth Kate Switaj |" type="rss" xmlUrl="http://www.elizabethkateswitaj.net/feed/"/>
+    <outline text="George Szirtes" type="rss" xmlUrl="http://georgeszirtes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THE BLIND CHATELAINE'S KEYS" type="rss" xmlUrl="http://angelicpoker.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="beginning &amp;quot;the&amp;quot;" type="rss" xmlUrl="http://beginningthe.wordpress.com/feed/"/>
+    <outline text="Bread And Jam For Frances" type="rss" xmlUrl="http://breadnjamforfrances.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="http://world-class-poetry.com/blog/feed/" type="rss" xmlUrl="http://world-class-poetry.com/blog/feed/"/>
+    <outline text="Andrew Taylor Poetry" type="rss" xmlUrl="http://andrewtaylorpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Eyelight" type="rss" xmlUrl="http://richardinfinitex.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="spread it like a roll of nickels" type="rss" xmlUrl="http://rollofnickels.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="About Last Night: " type="rss" xmlUrl="http://www.artsjournal.com/aboutlastnight/index.rdf"/>
+    <outline text="Slicker Chumway's" type="rss" xmlUrl="http://slickerchumways.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ANDREW IS VANISHING" type="rss" xmlUrl="http://www.andrewterhune.com/feeds/posts/default?alt=rss"/>
+    <outline text="Maria Loves Words" type="rss" xmlUrl="http://mariateutsch.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Structure &amp;amp; Surprise | Engaging Poetic Turns" type="rss" xmlUrl="http://structureandsurprise.wordpress.com/feed/"/>
+    <outline text="ardent-shanty" type="rss" xmlUrl="http://ardent-shanty.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="collision detection" type="rss" xmlUrl="http://www.collisiondetection.net/index.rdf"/>
+    <outline text="Jeremy JF Thompson's Autotypist" type="rss" xmlUrl="http://autotypist.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Blog of Henry David Thoreau" type="rss" xmlUrl="http://blogthoreau.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Articles of Teaching" type="rss" xmlUrl="http://matthewthorburn.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poetical bits" type="rss" xmlUrl="http://poeticalbits.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="k(orea) thurston" type="rss" xmlUrl="http://kevkevink-town.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Black Spring" type="rss" xmlUrl="http://theenk.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="General Projects" type="rss" xmlUrl="http://generalprojects.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Grand Hotel Abyss" type="rss" xmlUrl="http://nickytiso.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Miia with two eyes" type="rss" xmlUrl="http://miiatoivio.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Steinach Operation" type="rss" xmlUrl="http://thesteinachoperation.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="vviissiioonnss" type="rss" xmlUrl="http://vviissiioonnss.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Red Boldface" type="rss" xmlUrl="http://red-boldface.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="tony tost's america" type="rss" xmlUrl="http://tonytostsamerica.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="(to-forge-the-eye-is-a-mountain-in-the-empyrean)" type="rss" xmlUrl="http://steventoussaint.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Mindful Ramblings" type="rss" xmlUrl="http://mindful-ramblings.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tommaso Gervasutti" type="rss" xmlUrl="http://tommasogervasutti.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Piece of Monologue: Literature, Philosophy, Criticism" type="rss" xmlUrl="http://www.apieceofmonologue.com/feeds/posts/default?alt=rss"/>
+    <outline text="Tony Trehy blog" type="rss" xmlUrl="http://tony-trehy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="d i a p s a l m a t a" type="rss" xmlUrl="http://blog.whitneyannetrettien.com/feeds/posts/default?alt=rss"/>
+    <outline text="Shimmy's Blog" type="rss" xmlUrl="http://shimmykat.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Trivedi Chronicles" type="rss" xmlUrl="http://www.amishtrivedi.com/feeds/posts/default?alt=rss"/>
+    <outline text="So Misguided" type="rss" xmlUrl="http://www.somisguided.com/weblog/rss_2.0/"/>
+    <outline text="Nothing, Really" type="rss" xmlUrl="http://steventrull.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Said Like Reeds or Things" type="rss" xmlUrl="http://saidlikereedsorthings.ca/?feed=rss2"/>
+    <outline text="The Old Man: Prison Poet" type="rss" xmlUrl="http://theoldmanprisonpoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="EverythinLiterature" type="rss" xmlUrl="http://everythinliterature.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Small Branches Poetry" type="rss" xmlUrl="http://smallbranchespoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Ecstatic Days  " type="rss" xmlUrl="http://www.jeffvandermeer.com/feed/"/>
+    <outline text="the public library" type="rss" xmlUrl="http://krvlibrary.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="skye in a nutshell" type="rss" xmlUrl="http://skyeinanutshell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Zombie Logic: Poetry, Politics, Webcomics, Movies, Sports, Art, and Zombies" type="rss" xmlUrl="http://www.zombielogic.org/feeds/posts/default?alt=rss"/>
+    <outline text="looking azul" type="rss" xmlUrl="http://lookingazul.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PAUL VERMEERSCH" type="rss" xmlUrl="http://www.paulvermeersch.ca/feeds/posts/default?alt=rss"/>
+    <outline text="Aaron Vidaver" type="rss" xmlUrl="http://vidaver.wordpress.com/feed/"/>
+    <outline text="Literati Boricua" type="rss" xmlUrl="http://literatiboricua.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="with hidden noise" type="rss" xmlUrl="http://withhiddennoise.net/feed/"/>
+    <outline text=" limit" type="rss" xmlUrl="http://historyrepeating.wordpress.com/feed/"/>
+    <outline text="the delay" type="rss" xmlUrl="http://the_delay.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Professor VJ" type="rss" xmlUrl="http://professorvj.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Afsnit P  " type="rss" xmlUrl="http://afsnitp.dk/plogultra/feed/"/>
+    <outline text="BrandosHat" type="rss" xmlUrl="http://stevenwaling.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Freshly Rooted" type="rss" xmlUrl="http://freshlyrooted.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="a fool in the forest" type="rss" xmlUrl="http://www.afoolintheforest.com/index.rdf"/>
+    <outline text="Thinking Again" type="rss" xmlUrl="http://wallacethinksagain.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="lou-waves" type="rss" xmlUrl="http://lou-waves.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blogslot" type="rss" xmlUrl="http://theslot.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Everyone's cup of tea" type="rss" xmlUrl="http://josephwalton.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Serbian Ballerinas Dance with Machine Guns" type="rss" xmlUrl="http://serbianballerinasdancewithmachineguns.com/feed"/>
+    <outline text="Beyond Standard Model" type="rss" xmlUrl="http://shanxingwang.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="this Public Address 6.0" type="rss" xmlUrl="http://thispublicaddress.com/feed/"/>
+    <outline text="Mannerisms of Foxes" type="rss" xmlUrl="http://joshuaware.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="-" type="rss" xmlUrl="http://theingredient.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="william watkin's blog" type="rss" xmlUrl="http://williamwatkin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Household Opera" type="rss" xmlUrl="http://householdopera.typepad.com/household_opera/index.rdf"/>
+    <outline text=" barrettwatten.net" type="rss" xmlUrl="http://barrettwatten.net/feed/"/>
+    <outline text="One's Document" type="rss" xmlUrl="http://onedocument.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="La Culte de Baiser Sans Fin" type="rss" xmlUrl="http://sansfin.tumblr.com/rss"/>
+    <outline text="In a Dark Time ... The Eye Begins to See -" type="rss" xmlUrl="http://www.lorenwebster.net/In_a_Dark_Time/feed/"/>
+    <outline text="Joho the Blog" type="rss" xmlUrl="http://www.hyperorg.com/blogger/feed/"/>
+    <outline text="god is a giant crab" type="rss" xmlUrl="http://brandiwells.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CNQ Blog &amp;laquo;  Canadian Notes &amp;amp; Queries" type="rss" xmlUrl="http://notesandqueries.ca/feed/"/>
+    <outline text="Stick Poet Super Hero" type="rss" xmlUrl="http://stickpoetsuperhero.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Issa's Untidy Hut" type="rss" xmlUrl="http://lilliputreview.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Patricia Jabbeh Wesley's International Blog on Poetry for Peace | Blogs on Liberia, Everything Under the Sun, IImmigrants, Refugees, Liberia, Africa, Anti-War &amp;amp; Violence, Poetry, Blogging, Women, International, Immigrants, Liberia, poetry, Liberian writers, Writing, God, Grebo Culture, African World, Diaspora" type="rss" xmlUrl="http://poetryforpeace.wordpress.com/feed/"/>
+    <outline text="A Compulsive Reader | poetry::prose::theory::publishing" type="rss" xmlUrl="http://acompulsivereader.wordpress.com/feed/"/>
+    <outline text="abada abada &amp;rsaquo; fifteen years of jessamyn" type="rss" xmlUrl="http://jessamyn.com/journal/feed"/>
+    <outline text="The Scrapper Poet | Fussings from a Rustbelt Writer" type="rss" xmlUrl="http://thescrapperpoet.wordpress.com/feed/"/>
+    <outline text="LESLEY WHEELER | dig and be dug in return" type="rss" xmlUrl="http://lesleywheeler.org/feed/"/>
+    <outline text="Tattooing The Surface Of The Moon" type="rss" xmlUrl="http://loveisthenewhate.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Red Hibiscus" type="rss" xmlUrl="http://redhibiscus05.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="gahlilmailart" type="rss" xmlUrl="http://gahlilmailart.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Rick Wiggins: livedeadcat press" type="rss" xmlUrl="http://rickwiggins.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="DWx" type="rss" xmlUrl="http://dwlcx.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the Whole Garden Will Bow | Hip est corpus" type="rss" xmlUrl="http://thewholegardenwillbow.wordpress.com/feed/"/>
+    <outline text="Deconstructive Wasteland" type="rss" xmlUrl="http://deconstructivewasteland.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Caroline Wilkinson | The Transforming Book" type="rss" xmlUrl="http://www.carolinewilkinson.com/feed/"/>
+    <outline text="Notebooks, Second Draft | Edward Williams" type="rss" xmlUrl="http://lloydmintern.wordpress.com/feed/"/>
+    <outline text="SinTax" type="rss" xmlUrl="http://fissuresofmen.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Books, Inq. &amp;#8212; The Epilogue" type="rss" xmlUrl="http://booksinq.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Crafty Green Poet" type="rss" xmlUrl="http://craftygreenpoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Scripting News" type="rss" xmlUrl="http://www.scripting.com_/https://dl.dropbox.com/s/yz1rd3vgg1iw9fz/myPublicProfile.xml"/>
+    <outline text="lavachequilit" type="rss" xmlUrl="http://lavachequilit.typepad.com/chair/index.rdf"/>
+    <outline text="Touched By A Monkey" type="rss" xmlUrl="http://dwitkowski.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Experiments In Text :The Literature That Organisms Demand" type="rss" xmlUrl="http://davidwolach.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="smart stuff" type="rss" xmlUrl="http://smartstuff.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetry In The Mind's Well" type="rss" xmlUrl="http://inthemindswell.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Connaissances" type="rss" xmlUrl="http://connaissances.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Scott Woods" type="rss" xmlUrl="http://scottwoods.livejournal.com/data/rss"/>
+    <outline text="Andrew Duncan Worthington" type="rss" xmlUrl="http://www.andrewduncanworthington.com/feeds/posts/default?alt=rss"/>
+    <outline text="Erica Wright" type="rss" xmlUrl="http://ericawright.typepad.com/erica_wrights_weblog/index.rdf"/>
+    <outline text="swim/swam | repetition with variation" type="rss" xmlUrl="http://swimswam.wordpress.com/feed/"/>
+    <outline text="thinking about poetry | reflecting on my reading and writing by warrick wynne" type="rss" xmlUrl="http://poeticise.wordpress.com/feed/"/>
+    <outline text="theendofpoetry" type="rss" xmlUrl="http://theendofpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CALENDAR OF CATABOLIC GUILT" type="rss" xmlUrl="http://catabolicguiltcalendar.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="http://jakeadamyork.com/feed/" type="rss" xmlUrl="http://jakeadamyork.com/feed/"/>
+    <outline text="Invective Against Swans" type="rss" xmlUrl="http://invectiveagainstswans.tumblr.com/rss"/>
+    <outline text="Avoiding the Muse" type="rss" xmlUrl="http://avoidmuse.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="gamma ways" type="rss" xmlUrl="http://mhcyoung.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="tympan" type="rss" xmlUrl="http://tympan.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="vazambam" type="rss" xmlUrl="http://vazambam.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Frances Farmer Is My Sister" type="rss" xmlUrl="http://francesfarmerismysister.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Alyonka Mail Art Project" type="rss" xmlUrl="http://alyonkamailartproject.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Sharon Zeugin" type="rss" xmlUrl="http://sharzeugin.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Minor American" type="rss" xmlUrl="http://minoramerican.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="ideas in three dimensions" type="rss" xmlUrl="http://ideasinthreedimensions.wordpress.com/feed/"/>
+    <outline text="2blowhards.com" type="rss" xmlUrl="http://www.2blowhards.com/index.rdf"/>
+    <outline text="3by3by3" type="rss" xmlUrl="http://3by3by3.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Abecedarian Gallery&amp;#039;s Blog &amp;laquo; gallery exhibits &amp;amp; special events" type="rss" xmlUrl="http://abecedariangallery.wordpress.com/feed/"/>
+    <outline text="A Big Jewish Blog" type="rss" xmlUrl="http://abigjewishblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Page Not Found - Albany Poets" type="rss" xmlUrl="http://www.albanypoets.com/feed/"/>
+    <outline text="alice blue reviews" type="rss" xmlUrl="http://www.alicebluereviews.org/feeds/posts/default?alt=rss"/>
+    <outline text="The Alphabetography Project: A Study Of Letters" type="rss" xmlUrl="http://alphabetographee.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Alzheimer's Poetry Project" type="rss" xmlUrl="http://alzpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Annandale Dream Gazette" type="rss" xmlUrl="http://annandaledreamgazetteonline.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="As/Is" type="rss" xmlUrl="http://as-is.blogspot.com/feeds/posts/default"/>
+    <outline text="As It Ought to Be" type="rss" xmlUrl="http://asitoughttobe.com/feed/"/>
+    <outline text="atlanta poets group" type="rss" xmlUrl="http://atlantapoetsgroup.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="A Tonalist Notes" type="rss" xmlUrl="http://atonalistdoc.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Barnyard" type="rss" xmlUrl="http://thelivestockbarnyard.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="the basin blog | the writer&amp;#039;s playground" type="rss" xmlUrl="http://thebasinblog.wordpress.com/feed/"/>
+    <outline text="Poetry at Beinecke Library" type="rss" xmlUrl="http://beineckepoetry.wordpress.com/feed/"/>
+    <outline text="The Best American Poetry" type="rss" xmlUrl="http://blog.bestamericanpoetry.com/the_best_american_poetry/index.rdf"/>
+    <outline text=" Bidoun Projects" type="rss" xmlUrl="http://www.bidoun.org/feed/"/>
+    <outline text="BIG OTHER" type="rss" xmlUrl="http://bigother.com/feed/"/>
+    <outline text="Black Ocean - Black Ocean Blog" type="rss" xmlUrl="http://www.blackocean.org/black-ocean-blog/rss.xml"/>
+    <outline text="The Budapest Bardroom | Poems, music and comedy in Budapest&amp;#8217;s top English-language entertainment series" type="rss" xmlUrl="http://bardroom.com/feed/"/>
+    <outline text="The Calgary Blow-Out" type="rss" xmlUrl="http://calgaryblowout.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="caribbean review of books" type="rss" xmlUrl="http://caribbeanreviewofbooks.com/feed/"/>
+    <outline text="Poetry" type="rss" xmlUrl="http://www.blacklooks.org/feed/"/>
+    <outline text="a place for cleveland's writers and readers" type="rss" xmlUrl="http://clevelandpoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Coldfront &amp;raquo; features" type="rss" xmlUrl="http://coldfrontmag.com/feed"/>
+    <outline text="Columbia College Poetry MFA" type="rss" xmlUrl="http://columbiacollegepoetrymfa.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Conceptual Writing 101" type="rss" xmlUrl="http://conceptualwriting101.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Constant Critic    |  Recent Reviews" type="rss" xmlUrl="http://www.constantcritic.com/feed/"/>
+    <outline text="The Corresponding Society" type="rss" xmlUrl="http://thecorrespondingsociety.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Crackt Poeticks" type="rss" xmlUrl="http://cracktpoeticks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="CutBank Reviews" type="rss" xmlUrl="http://cutbankpoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="BluePrintReview book+lit blog" type="rss" xmlUrl="http://dailyspress.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="delirious hem" type="rss" xmlUrl="http://delirioushem.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Design Observer" type="rss" xmlUrl="http://feeds.feedburner.com/designobserver/main"/>
+    <outline text="DESK SPACE" type="rss" xmlUrl="http://desk-space.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="dumbfoundry" type="rss" xmlUrl="http://dumbfoundry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Exoskeleton" type="rss" xmlUrl="http://exoskeleton-johannes.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Fact-Simile" type="rss" xmlUrl="http://fact-simile.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="First Person Plural" type="rss" xmlUrl="http://thewriterscenter.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THE FLUX I SHARE" type="rss" xmlUrl="http://fluxishare.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Fluxlist" type="rss" xmlUrl="http://fluxlist.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Fluxlist Europe" type="rss" xmlUrl="http://fluxlisteurope.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="forward/text" type="rss" xmlUrl="http://forwardtext.livejournal.com/data/rss"/>
+    <outline text="franticham's   redfoxpress" type="rss" xmlUrl="http://franticham.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THE BEST WORDS IN THEIR BEST ORDER" type="rss" xmlUrl="http://www.fsgpoetry.com/fsg/index.rdf"/>
+    <outline text="Futurepost | Reviews, Responses, Commentary and News from Futurepoem Books" type="rss" xmlUrl="http://futurepoem.wordpress.com/feed/"/>
+    <outline text="THE INDEX TO GALATEA RESURRECTS" type="rss" xmlUrl="http://galatearesurrects.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Gently Read Literature | Essays &amp;amp; Criticism of Contemporary Poetry and Literary Fiction" type="rss" xmlUrl="http://gentlyread.wordpress.com/feed/"/>
+    <outline text="Girls Write Now" type="rss" xmlUrl="http://www.girlswritenow.org/feed/"/>
+    <outline text="GIVE A FIG" type="rss" xmlUrl="http://lesfigues.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="gas" type="rss" xmlUrl="http://goetta.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="gramatologia" type="rss" xmlUrl="http://gramatologia.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Grand Text Auto" type="rss" xmlUrl="http://grandtextauto.org/feed/"/>
+    <outline text="The Green Apple Core" type="rss" xmlUrl="http://thegreenapplecore.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Harriet: The Blog" type="rss" xmlUrl="http://www.poetryfoundation.org/harriet/feed/"/>
+    <outline text="The Home Video Review of Books" type="rss" xmlUrl="http://thehomevideoreviewofbooks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="How2 Blog" type="rss" xmlUrl="http://how2blog.clas.asu.edu/feed/"/>
+    <outline text="HTMLGIANT | the internet literature magazine blog of the future" type="rss" xmlUrl="http://htmlgiant.com/feed/"/>
+    <outline text="&quot;Intercapillary Space&quot;" type="rss" xmlUrl="http://intercapillaryspace.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="IEPI" type="rss" xmlUrl="http://poeticinvention.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" aaron s. gilbert  |  Writing" type="rss" xmlUrl="http://keepwriting.aaronsgilbert.com/?feed=rss2"/>
+    <outline text="La Bloga" type="rss" xmlUrl="http://labloga.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="LEMON HOUND" type="rss" xmlUrl="http://lemonhound.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" Live! From City Lights &amp;ndash; Readings, Interviews, and Reviews from City Lights Books &amp;amp; Publishers" type="rss" xmlUrl="http://www.citylightspodcast.com/feed/podcast/"/>
+    <outline text="Literary Kicks | Intellectual Curiosities and Provocations" type="rss" xmlUrl="http://www.litkicks.com/rss.xml"/>
+    <outline text="Blog  &amp;#8211;  Mad Poets Society - Bringing poetry and the appreciation of the spoken word to Philadelphia and its surrounding communities." type="rss" xmlUrl="http://www.madpoetssociety.com/feed/"/>
+    <outline text="Magazine Modernisms | Dedicated to Modern Periodical Studies" type="rss" xmlUrl="http://magmods.wordpress.com/feed/"/>
+    <outline text="&amp;amp; where do all these highways go now that we are free | &amp;quot;so much shouting so much laughter&amp;quot; (ani difranco)" type="rss" xmlUrl="http://marxclub.wordpress.com/feed/"/>
+    <outline text="The Malaysian Poetic Chronicles" type="rss" xmlUrl="http://themalaysianpoeticchronicles.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" | www.memorious.org" type="rss" xmlUrl="http://memoriousmag.wordpress.com/feed/"/>
+    <outline text="Millay Colony for the Arts" type="rss" xmlUrl="http://millaycolony.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="MIMEO MIMEO" type="rss" xmlUrl="http://mimeomimeo.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="modo de usar &amp;amp; co." type="rss" xmlUrl="http://revistamododeusar.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="- An online broadside of world literature" type="rss" xmlUrl="http://www.molossus.co/feed/"/>
+    <outline text="Moving Poems | The best poetry videos on the web" type="rss" xmlUrl="http://movingpoems.com/feed/"/>
+    <outline text="Mungo | It could be about anything." type="rss" xmlUrl="http://oddcitrus.wordpress.com/feed/"/>
+    <outline text="naropaswp" type="rss" xmlUrl="http://naropaswp.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="National Poetry Foundation | A companion to the NPF website" type="rss" xmlUrl="http://nationalpoetryfoundation.wordpress.com/feed/"/>
+    <outline text="NetPoetic" type="rss" xmlUrl="http://netpoetic.com/?feed=rss2"/>
+    <outline text="THE NEXT OBJECTIVISTS" type="rss" xmlUrl="http://nextobjectivists.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Now What" type="rss" xmlUrl="http://nowwhatblog.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Omnidawn Publishing Blog" type="rss" xmlUrl="http://omnidawn.wordpress.com/feed/"/>
+    <outline text="Omnivoracious: An Amazon.com Books Blog featuring news, reviews, interviews, and guest author blogs." type="rss" xmlUrl="http://www.omnivoracious.com/index.rdf"/>
+    <outline text="THE OTHER ROOM | Experimental poetry in Manchester" type="rss" xmlUrl="http://otherroom.org/feed/"/>
+    <outline text="ottawa poetry newsletter" type="rss" xmlUrl="http://ottawapoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="OuLiPo - Accueil" type="rss" xmlUrl="http://www.oulipo.net/index.php?page=rss"/>
+    <outline text="PA Poetry" type="rss" xmlUrl="http://papoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="P.F.S. Post" type="rss" xmlUrl="http://artrecess.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="PhillySound:  new poetry" type="rss" xmlUrl="http://phillysound.blogspot.com/feeds/posts/default"/>
+    <outline text="Pimp My Novel" type="rss" xmlUrl="http://pimpmynovel.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Plumbline School" type="rss" xmlUrl="http://theplumblineschool.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="poemicstrip" type="rss" xmlUrl="http://poemicstrip.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poems Out Loud" type="rss" xmlUrl="http://poemsoutloud.net/columns/rss/"/>
+    <outline text="Poetic Arts Performance Project" type="rss" xmlUrl="http://poetic-arts.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poetic Labor Project" type="rss" xmlUrl="http://labday2010.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Project Blog | The Poetry Project" type="rss" xmlUrl="http://poetryproject.org/feed"/>
+    <outline text="Poets On Fire" type="rss" xmlUrl="http://poetsonfire.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Poets Union Inc." type="rss" xmlUrl="http://poetsunioninc.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Puisi-poesy" type="rss" xmlUrl="http://puisipoesy.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Readux Books" type="rss" xmlUrl="http://www.readux.net/rss/"/>
+    <outline text="Read Write Poem" type="rss" xmlUrl="http://readwritepoem.org/feed/"/>
+    <outline text="ReadySteadyBook - for literature..." type="rss" xmlUrl="http://www.readysteadybook.com_/Feed.aspx?blog"/>
+    <outline text="Red Rover, Red Rover" type="rss" xmlUrl="http://redroverinterview.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Scarriet | Poetry &amp;amp; Culture" type="rss" xmlUrl="http://scarriet.wordpress.com/feed/"/>
+    <outline text="Our sweet old etcetera... | behind the scenes at the Scottish Poetry Library" type="rss" xmlUrl="http://scottishpoetrylibrary.wordpress.com/feed/"/>
+    <outline text="The Sexy Poets Society" type="rss" xmlUrl="http://sexypoetssociety.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="SFMOMA | Open Space" type="rss" xmlUrl="http://blog.sfmoma.org/feed/"/>
+    <outline text="Blogs - She Writes" type="rss" xmlUrl="http://www.shewrites.com/activity/log/list?fmt=rss"/>
+    <outline text="Small Press Traffic" type="rss" xmlUrl="http://smallpresstraffic.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="SO LONG BULLETIN" type="rss" xmlUrl="http://solongbulletin.tumblr.com/rss"/>
+    <outline text="SPD TODAY: The Small Press Distribution blog" type="rss" xmlUrl="http://spdtoday.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Spoken Word Paris" type="rss" xmlUrl="http://spokenwordparis.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Studio One Reading Series" type="rss" xmlUrl="http://studioonereadingseries.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Switchback Books" type="rss" xmlUrl="http://switchbackbooks.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="TEMPLE POETRY" type="rss" xmlUrl="http://templepoetry.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="THEthe Poetry Blog" type="rss" xmlUrl="http://feeds.feedburner.com/TheThePoetry"/>
+    <outline text="Thrownnest" type="rss" xmlUrl="http://thrownnesst.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Times Times 3" type="rss" xmlUrl="http://timestimes3.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Blogging Along Tobacco Road" type="rss" xmlUrl="http://tobaccoroadpoet.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="The Tolerance Project" type="rss" xmlUrl="http://thetoleranceproject.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Transductions" type="rss" xmlUrl="http://transductions.net/feed/"/>
+    <outline text="United Poets Laureate | The Convergence of State Poets Laureate From Throughout the United States" type="rss" xmlUrl="http://unitedpoetslaureate.wordpress.com/feed/"/>
+    <outline text="The World of Urdu Poetry, Literature &amp;amp; News | Ghazals, Nazms in Urdu, Hindi (Devanagari) and Roman scripts apart from news about Urdu literary world, Urdu Shaa&amp;#039;eri ka Haseen Intekhaab aur Adab ki KhabreN&amp;#8211;Indscribe [AnIndianMuslim.com]" type="rss" xmlUrl="http://urduindia.wordpress.com/feed/"/>
+    <outline text="Vanitas Magazine" type="rss" xmlUrl="http://vanitasmagazine.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Versal Journal" type="rss" xmlUrl="http://versaljournal.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="Verse" type="rss" xmlUrl="http://versemag.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="VRZHU bullets of pure love" type="rss" xmlUrl="http://vrzhu.typepad.com/vrzhu/index.rdf"/>
+    <outline text="Yale Working Group in Contemporary Poetry | Sponsored by the Beinecke Library and the Whitney Humanities Center" type="rss" xmlUrl="http://wgcp.wordpress.com/feed/"/>
+    <outline text="e-x-c-h-a-n-g-e-v-a-l-u-e-s" type="rss" xmlUrl="http://willtoexchange.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text=" womens quarterly conversation" type="rss" xmlUrl="http://womensquarterlyconversation.com/feed/"/>
+    <outline text="Woodland Pattern" type="rss" xmlUrl="http://woodlandpattern.blogspot.com/feeds/posts/default?alt=rss"/>
+    <outline text="X Poetics" type="rss" xmlUrl="http://xpoetics.blogspot.com/feeds/posts/default?alt=rss"/>
+  </body>
+</opml>

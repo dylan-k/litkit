@@ -4,14 +4,12 @@ litkit
 litkit is a tool to help you follow lots of literary blogs
 
 
-
 Details
 --------------------------------------------------------------------------------
 
 In the midst of some technological turbulence, there remains a treasure trove of vibrant and enjoyable literary blogs on the Internet. You can still subscribe to them and join the conversation. This litkit can help.
 
 Using Silliman's Blogroll as a starting point, I've created an OPML file. This file is a big list of all the RSS feeds of all the blogs on Silliman's list. The file can be imported into your blog reader of choice. Since Google Reader isn't around anymore, I recommend Feedly (my current favorite) or Digg Reader (also very good).
-
 
 
 Usage
@@ -24,7 +22,7 @@ Usage
  note: The file from step 1 is quite large. If the import fails, try to import <a href="https://nocategories.net/opml-builder/smaller-opml.zip">this collection of smaller files</a>, one at a time.
 3. Enjoy more than 1300 literary blogs.
 
-There is a PHP file in this repository that is useful for creating other OPML files, from other lists of blogs. This can be documented in more detail with later updates, but for now: create a .txt file that contains one blog URL per line, then feed that file to the PHP script, which will hunt each site for an RSS feed and create an OPML of the ones it finds.
+The PHP script in this repository, `blogroll-roller.php` is useful for creating other OPML files, from other lists of blogs. This is documented in more detail in `2_build/README.MD`.
 
 
 Credits

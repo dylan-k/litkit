@@ -1,7 +1,7 @@
 <?php
 /*
  * @author @skinofstars Kevin Carmody
- * GPLv3 - http://www.gnu.org/copyleft/gpl.html
+ * GPLv3 - https://www.gnu.org/copyleft/gpl.html
  *
  * this is really a command line app with no flags
  * for turning a bunch ofurls into an OPML file
@@ -120,7 +120,7 @@ function getTitleAlt($html) {
 }
 
 /**
- * http://keithdevens.com/weblog/archive/2002/Jun/03/RSSAuto-DiscoveryPHP
+ * https://keithdevens.com/weblog/archive/2002/Jun/03/RSSAuto-DiscoveryPHP
  * public domain
  */
 function getFile($location){
@@ -135,7 +135,7 @@ function getFile($location){
 }
 
 /**
- * http://keithdevens.com/weblog/archive/2002/Jun/03/RSSAuto-DiscoveryPHP
+ * https://keithdevens.com/weblog/archive/2002/Jun/03/RSSAuto-DiscoveryPHP
  * public domain
  */
 function getRSSLocation($html, $location){
@@ -170,12 +170,12 @@ function getRSSLocation($html, $location){
                     $href = $final_links[$n]['href'];
                 }
                 if($href){
-                    if(strstr($href, "http://") !== false){ #if it's absolute
+                    if(strstr($href, "https://") !== false){ #if it's absolute
                         $full_url = $href;
                     }else{ #otherwise, 'absolutize' it
                         $url_parts = parse_url($location);
-                        #only made it work for http:// links. Any problem with this?
-                        $full_url = "http://$url_parts[host]";
+                        #only made it work for https:// links. Any problem with this?
+                        $full_url = "https://$url_parts[host]";
                         if(isset($url_parts['port'])){
                             $full_url .= ":$url_parts[port]";
                         }

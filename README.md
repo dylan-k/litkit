@@ -15,14 +15,11 @@ Using Silliman's Blogroll as a starting point, I've created an OPML file. This f
 Usage
 --------------------------------------------------------------------------------
 
-1. <a href="https://nocategories.net/opml-builder/_MASTER.opml">Download the OPML file</a>.
-2. Import the OPML file into your reader application.
- a. import <a href="https://blog.feedly.com/2013/07/03/the-fix-to-the-missing-feeds-issue-is-here/">instructions for Feedly reader</a>
- b. import <a href="https://digg.zendesk.com/entries/21950935-I-have-an-OPML-file-How-do-I-import-it-to-Digg-Reader-">instructions for Digg reader</a>
- note: The file from step 1 is quite large. If the import fails, try to import <a href="https://nocategories.net/opml-builder/smaller-opml.zip">this collection of smaller files</a>, one at a time.
+1. Download the OPML file `_LITBLOGS.opml`
+2. Import the OPML file into your reader application. (Some examples of well-designed, modern RSS reader apps include [inoReader](https://www.inoreader.com/blog/2014/05/opml-subscriptions.html) and [Readwise Reader](https://docs.readwise.io/reader/docs/faqs/adding-new-content#how-do-i-upload-an-opml-file-to-import-all-my-rss-feeds-from-my-existing-rss-feed-reader-such-as-feedly-inoreader-reeder-etc), both of which can import an OPML list of feeds for subscribing.)
 3. Enjoy more than 1300 literary blogs.
 
-The PHP script in this repository, `blogroll-roller.php` is useful for creating other OPML files, from other lists of blogs. This is documented in more detail in `2_build/README.MD`.
+The PHP script in this repository, `blogroll-roller.php` is useful for creating other OPML files, from other lists of blogs. This is documented in more detail in `./2_build/README.MD`.
 
 
 Credits

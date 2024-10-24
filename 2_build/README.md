@@ -6,7 +6,7 @@ This PHP script helps you grab all the RSS feeds from a list of blogs, so you ca
 
 The script will output all the RSS feeds it finds into one OPML file, which you can import into your favorite feed reader to add all the blogs to your favorite feed reader.
 
-Some examples of well-designed, modern RSS reader apps include [inoReader](https://www.inoreader.com/blog/2014/05/opml-subscriptions.html) and [Readwise Reader](https://docs.readwise.io/reader/docs/faqs/adding-new-content#how-do-i-upload-an-opml-file-to-import-all-my-rss-feeds-from-my-existing-rss-feed-reader-such-as-feedly-inoreader-reeder-etc), both of which can import an OPML list of feeds to subscribe to.
+Some examples of well-designed, modern RSS reader apps include [inoReader](https://www.inoreader.com/blog/2014/05/opml-subscriptions.html) and [Readwise Reader](https://docs.readwise.io/reader/docs/faqs/adding-new-content#how-do-i-upload-an-opml-file-to-import-all-my-rss-feeds-from-my-existing-rss-feed-reader-such-as-feedly-inoreader-reeder-etc), both of which can import an OPML list of feeds for subscribing.
 
 
 Instructions for Use
